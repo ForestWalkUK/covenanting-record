@@ -276,7 +276,7 @@ The true and final answer to the corruption of the world's systems is not the wi
 
 ## Chapter VI &mdash; Of the Christian's Use of Tainted Instruments
 
-**I.** The Christian living in a fallen world doth inevitably make use of instruments, products, services, and institutions whose origins, supply chains, or governance are in whole or in part the fruit of sin. This is unavoidable short of a total withdrawal from the world, which the apostle doth not command nor permit. Furthermore, the Christian is expressly called to use the world's instruments whilst not abusing them, holding them as a pilgrim who knoweth that this present world and all its fashion is transient; and to redeem the time &mdash; that is, to buy up and consecrate to worthy purpose the hours God's providence hath placed before him, precisely because the days are evil.
+**I.** The Christian living in a fallen world doth inevitably make use of instruments, products, services, and institutions whose origins, supply chains, or governance are in whole or in part the fruit of sin. This is unavoidable short of a total withdrawal from the world, which the Lord Jesus Christ doth not command. Furthermore, the Christian is expressly called to use the world's instruments whilst not abusing them, holding them as a pilgrim who knoweth that this present world and all its fashion is transient; and to redeem the time &mdash; that is, to buy up and consecrate to worthy purpose the hours God's providence hath placed before him, precisely because the days are evil.
 
 <div class="scripture">
     <p>And they that use this world, as not abusing <em>it</em>: for the fashion of this world passeth away.</p>
