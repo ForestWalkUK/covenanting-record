@@ -18,7 +18,7 @@ title: "About"
             It is not a learned work. It is the notebook of a lonely soul of the remnant &mdash;
             one who looks upon the desolations of Zion and mourns, yet who finds comfort in
             the promises of the Covenant God of Israel, and in the cloud of witnesses
-            who suffered and died for these same truths.
+            who suffered and died for these same truths. The author makes extensive use of AI for study and writing.
         </p>
 
         <h2>On Comments</h2>
