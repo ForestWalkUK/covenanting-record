@@ -160,21 +160,37 @@ Fifth and revised edition</p>
 
 **IV.** That the Solemn League and Covenant remaineth binding in the sight of God upon the nations of Great Britain &mdash; notwithstanding all that hath since transpired in their civil and ecclesiastical history &mdash; is not a contention that can be dissolved by the mere force of subsequent events. The covenant was sworn with solemnity before the Eternal God, in His own name, and with the explicit acknowledgement that its obligations extended to posterity. What men have since done to repudiate it, they have done without God's leave and without power to release themselves from its bond. A wife who abandoneth her husband and taketh another hath not thereby dissolved her marriage in the eyes of God; she hath become an adulteress. So the nations that have abandoned the covenant Lord have not made their position better, but worse.
 
-The history of how this covenant was repudiated is one of the great national sins of these islands,
-and it is needful briefly to rehearse it, that the gravity of the present constitutional arrangement
-may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been sworn by the
-Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly had been
-convened in its service; and the most thoroughgoing Reformed settlement ever achieved in these lands
-was underway. Yet within a generation it was overthrown. At the Restoration of Charles II in
-A.D. 1660, the king &mdash; who had himself sworn the Solemn League and Covenant in A.D. 1651 at
-his coronation at Scone, and whose father had waged war against the Covenanting cause rather than
-submit to it &mdash; immediately and deliberately set about dismantling the entire covenanted work,
-proving himself one of the most cynical oath-breakers these islands have ever seen. In England, the
-Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers from their livings for
-refusing to conform to prelacy and to renounce the Solemn League and Covenant. In Scotland, the
-same Covenant was burned by the public hangman in Edinburgh; episcopacy was re-imposed upon the
-Kirk by royal command; and the faithful who refused to submit were driven to the fields, hunted
-with soldiers, and slaughtered in what became known as "the Killing Time."
+The history of how this covenant was repudiated is one of the great national sins of these
+islands, and it is needful briefly to rehearse it, that the gravity of the present constitutional
+arrangement may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been
+sworn by the Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly
+had been convened in its service; and the most thoroughgoing Reformed settlement ever achieved in
+these lands was underway. Yet within a generation it was overthrown. At the Restoration of Charles
+II in A.D. 1660, the king &mdash; who had himself sworn the Solemn League and Covenant in
+A.D. 1651 at his coronation at Scone, and whose father had waged war against the Covenanting cause
+rather than submit to it &mdash; immediately and deliberately set about dismantling the entire
+covenanted work, proving himself one of the most cynical oath-breakers these islands have ever
+seen. In England, the Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers
+from their livings on St. Bartholomew's Day, the 24th of August, for refusing episcopal
+re-ordination and refusing to give their unfeigned assent and consent to everything prescribed in
+the newly revised Book of Common Prayer. But the Act went further still: it required every
+minister, university lecturer, and schoolmaster to subscribe a Declaration &mdash; in these
+words, from the Act itself &mdash; that the Solemn League and Covenant was *"in it selfe an
+unlawfull Oath and imposed upon the Subjects of this Realme against the knowne Lawes and
+Liberties of this Kingdome."*
+
+<label for="sn-act-uniformity-primary" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-act-uniformity-primary" class="margin-toggle"/>
+<span class="sidenote">Act of Uniformity, 14 Cha. 2. c. 4 (A.D. 1662), Section VI: Declaration required of
+all ministers, deans, university readers, schoolmasters, and tutors. Text from <em>Statutes of
+the Realm, Volume 5, 1625&ndash;80</em>, ed. John Raithby (s.l., 1819), via British History
+Online, https://www.british-history.ac.uk/statutes-realm/vol5/pp364-370. This clause was
+eventually removed from the required Declaration by Section VIII of the same Act after the 25th
+of March A.D. 1682 &mdash; having stood, and done its destructive work, for twenty years.</span>
+
+In Scotland, the same Covenant was burned by the public hangman in Edinburgh; episcopacy was
+re-imposed upon the Kirk by royal command; and the faithful who refused to submit were driven to
+the fields, hunted with soldiers, and slaughtered in what became known as "the Killing Time."
 
 <label for="sn-killing-time" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-killing-time" class="margin-toggle"/>
