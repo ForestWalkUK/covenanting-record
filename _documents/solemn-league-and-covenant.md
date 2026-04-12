@@ -28,27 +28,26 @@ the name of the Triune God, and never formally released. The obligations
 it imposes upon the nations that swore it remain in force until God
 Himself shall dissolve them.
 
-## The Text of the Covenant
-
-*A Solemn League and Covenant for Reformation and Defence of Religion,
-the Honour and Happiness of the King, and the Peace and Safety of the
-Three Kingdoms of Scotland, England and Ireland.*
-
-We, Noblemen, Barons, Knights, Gentlemen, Citizens, Burgesses, Ministers
-of the Gospel, and Commons of all sorts, in the Kingdoms of Scotland,
-England and Ireland...
-
 ---
 
-<style>
-</style>
+## The Text of the Covenant
 
-**THE SOLEMN LEAGUE AND COVENANT,**
+<p class="document-title">The Solemn League and Covenant,<br>
+for<br>
+Reformation and Defence of Religion, the Honour and Happiness of the King,
+and the Peace and Safety of the Three Kingdoms of Scotland, England and Ireland.</p>
 
-**FOR**
-
-**Reformation and defence of religion, the honour and happiness of the King, and the peace and safety of the three  kingdoms of Scotland, England, and Ireland; agreed upon by Commissioners from the Parliament and Assembly of Divines in England, with Commissioners of the Convention of Estates and General Assembly of the Church of Scotland; approved by the General Assembly of the Church of Scotland, and by both Houses of Parliament, and the Assembly of Divines in England, and taken and subscribed by them *Anno* 1643; and thereafter, by the said authority, taken and subscribed by all ranks in Scotland and England the same year; and ratified by act of the Parliament of Scotland *Anno* 1644. (And again renewed in Scotland, with an acknowledgement of sins and engagements to duties, by all ranks, *Anno* 1648, and by Parliament, 1649; and taken and subscribed by *King Charles II*., at *Spey*, *June* 23,
- 1650; and at *Scoon, January* 1, 1651.)**
+<p class="document-preamble">Agreed upon by Commissioners from the Parliament and Assembly of Divines
+in England, with Commissioners of the Convention of Estates and General Assembly
+of the Church of Scotland; approved by the General Assembly of the Church of
+Scotland, and by both Houses of Parliament, and the Assembly of Divines in
+England, and taken and subscribed by them <em>Anno</em> 1643; and thereafter,
+by the said authority, taken and subscribed by all ranks in Scotland and England
+the same year; and ratified by act of the Parliament of Scotland <em>Anno</em> 1644.
+(And again renewed in Scotland, with an acknowledgement of sins and engagements
+to duties, by all ranks, <em>Anno</em> 1648, and by Parliament, 1649; and taken
+and subscribed by <em>King Charles II.</em>, at <em>Spey</em>, <em>June</em> 23,
+1650; and at <em>Scoon, January</em> 1, 1651.)</p>
 
 WE noblemen, barons, knights, gentlemen, citizens, burgesses, ministers of
 the Gospel, and commons of all sorts, in the kingdoms of Scotland, England, and
@@ -73,8 +72,8 @@ resolved and determined to enter into a Mutual and Solemn League and Covenant,
 wherein we all subscribe, and each one of us for himself, with our hands lifted
 up to the Most High GOD, do swear,
 
-I. THAT we shall sincerely, really, and constantly, through the grace of GOD,
-endeavor, in our several places and callings, the preservation of the reformed
+**I.** THAT we shall sincerely, really, and constantly, through the grace of GOD,
+endeavour, in our several places and callings, the preservation of the reformed
 religion in the Church of Scotland, in doctrine, worship, discipline, and
 government, against our common enemies; the reformation of religion in the
 kingdoms of England and Ireland, in doctrine, worship, discipline, and
@@ -85,7 +84,7 @@ Faith, Form of Church Government, Directory for Worship and Catechising; that
 we, and our posterity after us, may, as brethren, live in faith and love, and
 the Lord may delight to dwell in the midst of us.
 
-II. That we shall, in like manner, without respect of persons, endeavour
+**II.** That we shall, in like manner, without respect of persons, endeavour
 the extirpation of Popery, Prelacy (that is, Church government by archbishops,
 bishops, their chancellors and commissioners, deans, deans and chapters,
 archdeacons, and all other ecclesiastical officers depending on that
@@ -94,7 +93,7 @@ found contrary to sound doctrine and the power of Godliness; lest we partake in
 other men's sins, and thereby be in danger to receive of their plagues; and
 that the Lord may be one, and his name one, in the three kingdoms.
 
-III. We shall, with the same sincerity, reality, and constancy, in our
+**III.** We shall, with the same sincerity, reality, and constancy, in our
 several vocations, endeavour, with our estates and lives, mutually to preserve
 the rights and privileges of the Parliaments, and the liberties of the
 kingdoms; and to preserve and defend the king's majesty's person and authority,
@@ -103,7 +102,7 @@ kingdoms; that the world may bear witness with our consciences of our loyalty,
 and that we have no thoughts or intentions to diminish his majesty's just power
 and greatness.
 
-IV. We shall also, with all faithfulness, endeavour the discovery of all
+**IV.** We shall also, with all faithfulness, endeavour the discovery of all
 such as have been or shall be incendiaries, malignants, or evil instruments, by
 hindering the reformation of religion, dividing the king from his people, or
 one of the kingdoms from another, or making any faction or parties among the
@@ -113,7 +112,7 @@ shall require or deserve, or the supreme judicatories of both kingdoms
 respectively, or others having power from them for that effect, shall judge
 convenient.
 
-V. And whereas the happiness of a blessed peace between these kingdoms,
+**V.** And whereas the happiness of a blessed peace between these kingdoms,
 denied in former times to our progenitors, is, by the good providence of GOD,
 granted unto us, and hath been lately concluded and settled by both
 Parliaments; we shall, each one of us, according to our place and interest,
@@ -121,7 +120,7 @@ endeavour that they may remain conjoined in a firm peace and union to all
 posterity; and that justice may be done upon the willful opposers thereof, in
 manner expressed in the precedent article.
 
-VI. We shall also, according to our places and callings, in this common
+**VI.** We shall also, according to our places and callings, in this common
 cause of religion, liberty, and peace of the kingdoms, assist and defend all
 those that enter into this League and Covenant, in the maintaining and pursuing
 thereof; and shall not suffer ourselves, directly or indirectly, by whatsoever

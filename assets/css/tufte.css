@@ -531,3 +531,25 @@ body.has-sidebar .marginnote {
     width: 28%;
     max-width: 220px;
 }
+
+/* Historical document title and preamble styles */
+.document-title {
+    font-size: 1.5rem;
+    font-variant: small-caps;
+    text-align: center;
+    line-height: 2rem;
+    margin: 2rem 0 1rem 0;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+}
+
+.document-preamble {
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    color: #444;
+    margin: 1rem 0 2rem 0;
+    padding: 1rem 1.5rem;
+    border-left: 3px solid #ccc8b8;
+}
