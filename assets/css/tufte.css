@@ -19,6 +19,7 @@ body {
     color: #111;
     max-width: 1400px;
     counter-reset: sidenote-counter;
+    overflow-x: hidden;
 }
 
 /* Layout with sidebar */
@@ -264,8 +265,8 @@ blockquote p {
 .marginnote {
     float: right;
     clear: right;
-    margin-right: -60%;
-    width: 50%;
+    margin-right: -38%;
+    width: 34%;
     margin-top: 0.3rem;
     margin-bottom: 0;
     font-size: 1.1rem;
@@ -273,6 +274,9 @@ blockquote p {
     vertical-align: baseline;
     position: relative;
     color: #666;
+    max-width: 280px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 .sidenote-number {
@@ -518,4 +522,12 @@ pre {
     figure {
         max-width: 100%;
     }
+}
+
+/* Sidenote containment for sidebar layout */
+body.has-sidebar .sidenote,
+body.has-sidebar .marginnote {
+    margin-right: -32%;
+    width: 28%;
+    max-width: 220px;
 }
