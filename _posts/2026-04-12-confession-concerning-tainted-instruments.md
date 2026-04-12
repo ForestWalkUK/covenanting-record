@@ -160,7 +160,21 @@ Fifth and revised edition</p>
 
 **IV.** That the Solemn League and Covenant remaineth binding in the sight of God upon the nations of Great Britain &mdash; notwithstanding all that hath since transpired in their civil and ecclesiastical history &mdash; is not a contention that can be dissolved by the mere force of subsequent events. The covenant was sworn with solemnity before the Eternal God, in His own name, and with the explicit acknowledgement that its obligations extended to posterity. What men have since done to repudiate it, they have done without God's leave and without power to release themselves from its bond. A wife who abandoneth her husband and taketh another hath not thereby dissolved her marriage in the eyes of God; she hath become an adulteress. So the nations that have abandoned the covenant Lord have not made their position better, but worse.
 
-The history of how this covenant was repudiated is one of the great national sins of these islands, and it is needful briefly to rehearse it, that the gravity of the present constitutional arrangement may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been sworn by the Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly had been convened in its service; and the most thoroughgoing Reformed settlement ever achieved in these lands was underway. Yet within a generation it was overthrown. At the Restoration of Charles II in A.D. 1660, the king &mdash; whose father had sworn the National Covenant of Scotland in A.D. 1638, and who had himself sworn the Solemn League and Covenant in A.D. 1651 at his coronation at Scone &mdash; immediately and deliberately set about dismantling the entire covenanted work. In England, the Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers from their livings for refusing to conform to prelacy and to renounce the Solemn League and Covenant. In Scotland, the same Covenant was burned by the public hangman in Edinburgh; episcopacy was re-imposed upon the Kirk by royal command; and the faithful who refused to submit were driven to the fields, hunted with soldiers, and slaughtered in what became known as "the Killing Time."
+The history of how this covenant was repudiated is one of the great national sins of these islands,
+and it is needful briefly to rehearse it, that the gravity of the present constitutional arrangement
+may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been sworn by the
+Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly had been
+convened in its service; and the most thoroughgoing Reformed settlement ever achieved in these lands
+was underway. Yet within a generation it was overthrown. At the Restoration of Charles II in
+A.D. 1660, the king &mdash; who had himself sworn the Solemn League and Covenant in A.D. 1651 at
+his coronation at Scone, and whose father had waged war against the Covenanting cause rather than
+submit to it &mdash; immediately and deliberately set about dismantling the entire covenanted work,
+proving himself one of the most cynical oath-breakers these islands have ever seen. In England, the
+Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers from their livings for
+refusing to conform to prelacy and to renounce the Solemn League and Covenant. In Scotland, the
+same Covenant was burned by the public hangman in Edinburgh; episcopacy was re-imposed upon the
+Kirk by royal command; and the faithful who refused to submit were driven to the fields, hunted
+with soldiers, and slaughtered in what became known as "the Killing Time."
 
 <label for="sn-killing-time" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-killing-time" class="margin-toggle"/>
