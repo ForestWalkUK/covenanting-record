@@ -305,3 +305,5 @@ Within material cooperation, the following graduated distinctions apply: *immedi
 *A companion Catechism on the same subjects, in question-and-answer form, is offered as a separate post.*
 
 *Soli Deo Gloria.*
+
+
