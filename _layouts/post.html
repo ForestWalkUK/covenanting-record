@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} — {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/tufte.css' | relative_url }}">
+    {% feed_meta %}
+    {% seo %}
+</head>
+<body>
+
+    <header class="site-header">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+            <a href="{{ '/' | relative_url }}">Journal</a>
+            <a href="{{ '/documents/' | relative_url }}">Documents</a>
+            <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
+    </header>
+
+    <div class="content-wrap">
+        <article>
+            <div class="post-header">
+                <h1>{{ page.title }}</h1>
+                <p class="post-meta">
+                    {{ page.date | date: "%-d %B %Y" }}
+                    {% if page.author %} &mdash; {{ page.author }}{% endif %}
+                </p>
+                {% if page.tags and page.tags.size > 0 %}
+                <div class="post-tags">
+                    {% for tag in page.tags %}
+                    <span class="tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+
+            <section>
+                {{ content }}
+            </section>
+        </article>
+
+        <nav style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e8e4d8; font-size: 1.1rem;">
+            {% if page.previous.url %}
+            <a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
+            {% endif %}
+            {% if page.next.url %}
+            <span style="float:right;"><a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a></span>
+            {% endif %}
+        </nav>
+
+        {% if page.comments != false %}
+        <div class="comments-section">
+            <h3>Responses &amp; Reflections</h3>
+            <!-- GISCUS COMMENTS -->
+            <!-- After enabling GitHub Discussions on your repo, replace the data- values below. -->
+            <!-- Visit https://giscus.app to generate your own configuration snippet. -->
+            <script src="https://giscus.app/client.js"
+                data-repo="forestwalkuk/covenanting-record"
+                data-repo-id="REPLACE_WITH_REPO_ID"
+                data-category="General"
+                data-category-id="REPLACE_WITH_CATEGORY_ID"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="top"
+                data-theme="light"
+                data-lang="en"
+                data-loading="lazy"
+                crossorigin="anonymous"
+                async>
+            </script>
+            <!-- END GISCUS -->
+        </div>
+        {% endif %}
+
+    </div>
+
+    <footer class="site-footer">
+        <p>{{ site.title }} &mdash; {{ site.description }}</p>
+        <p><em>Soli Deo Gloria</em></p>
+    </footer>
+
+</body>
+</html>

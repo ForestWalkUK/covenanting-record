@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/tufte.css' | relative_url }}">
+    {% feed_meta %}
+    {% seo %}
+</head>
+<body>
+
+    <header class="site-header">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+            <a href="{{ '/' | relative_url }}">Journal</a>
+            <a href="{{ '/documents/' | relative_url }}">Documents</a>
+            <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
+    </header>
+
+    <div class="content-wrap">
+        {{ content }}
+    </div>
+
+    <footer class="site-footer">
+        <p>{{ site.title }} &mdash; {{ site.description }}</p>
+        <p><em>Soli Deo Gloria</em></p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+title: "The Covenanting Record"
+description: "A journal of Reformed and Covenanting reflection — thoughts of a lonely soul of the remnant."
+author: "Carl"
+baseurl: "/covenanting-record"
+url: "https://forestwalkuk.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  typographic_symbols:
+    hellip: "…"
+    mdash: "—"
+    ndash: "–"
+    laquo: "«"
+    raquo: "»"
+    laquo_space: "« "
+    raquo_space: " »"
+
+# Pagination
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Collections
+collections:
+  documents:
+    output: true
+    permalink: /documents/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      sidebar: false
+      comments: true
+  - scope:
+      path: ""
+      type: "documents"
+    values:
+      layout: "document"
+      sidebar: true
+      comments: false
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
