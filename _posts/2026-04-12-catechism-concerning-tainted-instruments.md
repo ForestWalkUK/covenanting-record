@@ -79,7 +79,7 @@ Fifth and revised edition</p>
 
 **Q. 9.** May a Christian submit to the civil government of an unlawful government?
 
-**A.** He may submit out of fear, in things that are otherwise lawful, as a matter of prudential necessity without sin; but he cannot submit out of conscience, as though such a government were the Lord's ordained minister for good. He that payeth taxes to such a government under compulsion doth not thereby acknowledge its legitimacy; but he that payeth for conscience' sake, as though to a lawful minister of God, ceaseth to be a faithful witness.
+**A.** He ought indeed to submit to all its lawful commands &mdash; not merely out of fear, as a matter of prudential necessity, but out of conscience toward God Himself, whose moral authority underlieth every lawful command regardless of the character of the instrument through which it is issued; for it is God's Law that is obeyed, not the unlawful ruler's person. But he cannot submit to such a government *as a lawful magistracy* &mdash; that is, as the Lord's ordained minister for good in the sense of Romans 13:4 &mdash; for it hath inverted that very description; and to own it as such would be to render to the creature the honour that belongeth to God alone. He that payeth taxes to such a government under compulsion doth not thereby acknowledge its legitimacy; but he that payeth for conscience' sake, as though to a lawful minister of God, ceaseth to be a faithful witness.
 
 ---
 
