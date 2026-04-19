@@ -499,33 +499,38 @@ pre {
         padding: 1rem 1.5rem;
     }
 
-    /* Sidenotes become inline footnotes on mobile */
+    /* Sidenotes hidden by default on mobile, revealed on tap */
     .sidenote, .marginnote {
-        display: inline;
+        display: none;
         float: none;
-        margin: 0;
-        width: auto;
-        max-width: none;
-        font-size: 0.95rem;
-        color: #666;
-        vertical-align: super;
-        line-height: 0;
+        clear: both;
+        width: 90%;
+        margin: 0.8rem 5% 0.8rem 5%;
+        padding: 0.6rem 0.8rem;
+        background-color: #f4f0e8;
+        border-left: 3px solid #b8a87a;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        color: #444;
+        vertical-align: baseline;
+        position: relative;
     }
 
-    .sidenote:before {
-        content: " [" counter(sidenote-counter) "] ";
-        vertical-align: super;
-        font-size: 0.8rem;
-        line-height: 0;
+    label.sidenote-number {
+        cursor: pointer;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-underline-offset: 2px;
     }
 
     label.margin-toggle:not(.sidenote-number) {
         display: inline;
+        cursor: pointer;
     }
 
     input.margin-toggle:checked + .sidenote,
     input.margin-toggle:checked + .marginnote {
-        display: inline;
+        display: block;
     }
 
     figure {
