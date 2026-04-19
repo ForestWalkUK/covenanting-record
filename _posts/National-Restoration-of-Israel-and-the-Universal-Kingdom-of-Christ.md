@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Of the National Restoration of Israel and the Universal Kingdom of Christ"
+date: 2026-04-19
+tags: [covenant, reformation, israel, millennium]
+comments: true
+excerpt: "The Covenanted Reformation of these lands is indeed in desolation. Yet the promises of God are not broken, and the Covenant standeth sure."
+---
+
 ### **Of the National Restoration of Israel and the Universal Kingdom of Christ**
 
 **I.** As the Lord Jesus, in the withering of the fig tree, did judicially terminate the carnal and typical administration of the Jewish theocracy for its fruitlessness; so hath He nevertheless reserved a sovereign and covenantal purpose for that nation in the ages to come. The present rejection of the natural branches, though just and according to the decree of reprobation upon that generation, is neither total nor final; for the Covenant made with the fathers remaineth sure in the hand of the Mediator.
