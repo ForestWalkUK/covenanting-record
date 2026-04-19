@@ -553,3 +553,35 @@ body.has-sidebar .marginnote {
     padding: 1rem 1.5rem;
     border-left: 3px solid #ccc8b8;
 }
+
+/* Mobile header fix */
+@media (max-width: 800px) {
+    .site-header {
+        height: auto;
+        min-height: 48px;
+        padding: 0.6rem 1rem;
+        flex-wrap: nowrap;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .site-title {
+        font-size: 1.05rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+    }
+
+    .site-nav {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 0;
+        margin-left: auto;
+    }
+
+    .site-nav a {
+        margin-left: 0.9rem;
+        font-size: 0.9rem;
+        white-space: nowrap;
+    }
+}
