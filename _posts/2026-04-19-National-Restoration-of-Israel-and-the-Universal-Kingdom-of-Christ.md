@@ -7,6 +7,14 @@ comments: true
 excerpt: "The Lord shall, in the season of His appointed Millennial glory, pour out a Spirit of grace and national repentance upon the seed of Jacob — and this receiving of Israel shall be the catalyst for the universal enlargement of the Redeemer's Kingdom."
 ---
 
+<p style="font-size:1.2rem; line-height:1.9rem; color:#555; font-style:italic; border-left:3px solid #ccc8b8; padding-left:1.5rem; margin-bottom:2.5rem;">
+The following is offered not as a settled or authoritative standard, but as a
+working draft drawn from Holy Scripture, the Westminster Standards, and the
+testimony of the faithful Covenanted Reformation &mdash; set down for the
+author's own prayerful consideration and offered to any who may find it
+profitable.
+</p>
+
 **I.** As the Lord Jesus, in the withering of the fig tree, did judicially
 terminate the carnal and typical administration of the Jewish theocracy for
 its fruitlessness; so hath He nevertheless reserved a sovereign and covenantal
@@ -66,53 +74,34 @@ other nations to follow in National Covenanting.
 
 ---
 
-<p class="post-meta" style="font-size:1rem; color:#888; margin-top:3rem;">
+*Soli Deo Gloria.*
+
+<hr style="margin-top:3rem; border-color:#e8e4d8;">
+
+<p style="font-size:0.95rem; line-height:1.6rem; color:#999; margin-top:1.5rem;">
 This piece was produced with the assistance of Gemini (Google), under the
-author's direction and subject to the author's review and approval.
-</p>
-
-<p style="font-size:1.1rem; line-height:1.8rem; color:#444; margin-top:2rem;">
-The author believes this piece to be in accordance with the whole counsel of
-God as revealed in Holy Scripture, but recognising his own manifold weaknesses,
+author's direction and subject to the author's review and approval. The author
+believes this piece to be in accordance with the whole counsel of God as
+revealed in Holy Scripture, but recognising his own manifold weaknesses,
 encourages the reader to weigh all things prayerfully before God.
+&#8220;To the law and to the testimony: if they speak not according to this word,
+<em>it is</em> because <em>there is</em> no light in them&#8221; (Isa. 8:20).
+&#8220;Prove all things; hold fast that which is good&#8221; (1 Thess. 5:21).
+&#8220;Preach the word; be instant in season, out of season; reprove, rebuke,
+exhort with all longsuffering and doctrine&#8221; (2 Tim. 4:2).
+&#8220;Let the righteous smite me; <em>it shall be</em> a kindness: and let him
+reprove me; <em>it shall be</em> an excellent oil, <em>which</em> shall not
+break my head&#8221; (Ps. 141:5).
+&#8220;Iron sharpeneth iron; so a man sharpeneth the countenance of his
+friend&#8221; (Prov. 27:17).
+The author welcomes prayerful reproof, rebuke, and exhortation grounded in
+Holy Scripture.
 </p>
 
-<div class="scripture">
-    <p>To the law and to the testimony: if they speak not according to this
-    word, <em>it is</em> because <em>there is</em> no light in them.</p>
-    <cite>Isaiah 8:20</cite>
-</div>
-
-<div class="scripture">
-    <p>Prove all things; hold fast that which is good.</p>
-    <cite>1 Thessalonians 5:21</cite>
-</div>
-
-<div class="scripture">
-    <p>Preach the word; be instant in season, out of season; reprove, rebuke,
-    exhort with all longsuffering and doctrine.</p>
-    <cite>2 Timothy 4:2</cite>
-</div>
-
-<div class="scripture">
-    <p>Let the righteous smite me; <em>it shall be</em> a kindness: and let
-    him reprove me; <em>it shall be</em> an excellent oil, <em>which</em>
-    shall not break my head: for yet my prayer also <em>shall be</em> in
-    their calamities.</p>
-    <cite>Psalm 141:5</cite>
-</div>
-
-<div class="scripture">
-    <p>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</p>
-    <cite>Proverbs 27:17</cite>
-</div>
-
-<p style="font-size:1rem; color:#888; margin-top:2rem; font-style:italic;">
+<p style="font-size:0.95rem; line-height:1.6rem; color:#999; margin-top:1rem;">
 &copy; 2026 Carl R.S. Hamblin. This work may be freely copied, distributed,
 and quoted for non-commercial purposes, with or without attribution. The author
 requests, though cannot legally compel, that it not be used in ways contrary
 to its stated purpose of glorifying God and advancing His kingdom. All rights
 reserved for commercial use.
 </p>
-
-*Soli Deo Gloria.*
