@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "A Confession of Faith Concerning the Christian's Use of Tainted Instruments in a Fallen World"
-date: 2026-04-12
+date: 2026-04-16
 tags: [covenant, reformation, westminster, testimony, scripture, history, remnant]
 comments: true
 excerpt: "A confession of faith drawn from Holy Scripture and the Standards of the Covenanted Reformation, addressing the nature of lawful civil government, the obligations of covenanted nations, and the Christian's use of tainted instruments in a fallen world. Offered tentatively, for prayerful consideration."
 ---
 
-*The following is offered not as a settled or authoritative standard, but as a working draft drawn from Holy Scripture, the Westminster Standards, and the testimony of the faithful Covenanted Reformation — set down for the author's own prayerful consideration and offered to any who may find it profitable. It is companion to a separate* [Catechism post](#) *on the same subject.*
+*The following is offered not as a settled or authoritative standard, but as a working draft drawn from Holy Scripture, the Westminster Standards, and the testimony of the faithful Covenanted Reformation — set down for the author's own prayerful consideration and offered to any who may find it profitable. It is companion to a separate* [Catechism](#) *on the same subject.*
 
 <p class="document-title">A Confession of Faith<br>
 Concerning the Christian's Use of Tainted Instruments<br>
@@ -16,7 +16,7 @@ in a Fallen World, and the Obligation of Civil Government<br>
 Drawn from Holy Scripture, the Standards of the Covenanted Reformation,<br>
 and the Reformed Casuistical Tradition<br>
 <br>
-Fifth and revised edition</p>
+Sixth and revised edition</p>
 
 ---
 
@@ -39,7 +39,46 @@ Fifth and revised edition</p>
     <cite>Genesis 50:20</cite>
 </div>
 
-**II.** Forasmuch as the Fall hath corrupted not only the nature of man but the works of his hands, and the institutions of society, commerce, and government are all permeated with the effects of sin; and forasmuch as the whole world lieth in wickedness (1 John 5:19); it followeth that no instrument, product, service, or institution devised by fallen men is wholly free from taint or corruption in its origin, production, or governance. This is the common condition of life in a fallen world, and is no new thing under the sun.
+**II.** That the world is in this fallen condition is not an accident of history but the direct consequence of the first transgression of our first parents in the Garden of Eden, by whose sin death passed upon all men and the whole creation was subjected to vanity and corruption. The ground itself was cursed for man's sake; the works of his hands are therefore produced within a creation that groaneth and travaileth in pain together until now. It is this comprehensive ruin of the created order &mdash; not merely the individual acts of wickedness that proceed from it &mdash; that maketh a framework for navigating the use of tainted instruments both necessary and inevitable for every generation of the faithful since the garden gate was shut. Who can bring a clean thing out of an unclean? Not one.
+
+<div class="scripture">
+    <p>Cursed <em>is</em> the ground for thy sake; in sorrow shalt thou eat <em>of</em> it all the days of thy life.</p>
+    <cite>Genesis 3:17</cite>
+</div>
+
+<div class="scripture">
+    <p>For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected <em>the same</em> in hope.</p>
+    <cite>Romans 8:20</cite>
+</div>
+
+<div class="scripture">
+    <p>Who can bring a clean <em>thing</em> out of an unclean? not one.</p>
+    <cite>Job 14:4</cite>
+</div>
+
+**III.** Sin itself is to be understood according to the threefold biblical definition: it is the transgression of the law (1 John 3:4) &mdash; the governing objective standard by which all moral dependency upon the acts of men is to be assessed; it is all unrighteousness (1 John 5:17) &mdash; which closeth off any attempt to treat moral dependency upon wickedness as a neutral matter merely because the wrong is several steps removed; and whatsoever is not of faith is sin (Romans 14:23) &mdash; which requireth that even a lawful use of a tainted instrument be capable of being received in faith and with a clear conscience, or it becometh sin in the one who receiveth it against his conscience. These three definitions together establish that the question the Christian must ask of any tainted instrument is never merely "how serious is this wrong?" but "doth this transgress God's law, and can it be received in faith?" The comprehensiveness of sin's reach into the fallen world is therefore a reason for greater, not lesser, moral vigilance; and the ubiquity of a wrong doth not sanctify it. Thou shalt not follow a multitude to do evil.
+
+<div class="scripture">
+    <p>Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.</p>
+    <cite>1 John 3:4</cite>
+</div>
+
+<div class="scripture">
+    <p>All unrighteousness is sin.</p>
+    <cite>1 John 5:17</cite>
+</div>
+
+<div class="scripture">
+    <p>And he that doubteth is damned if he eat, because <em>he eateth</em> not of faith: for whatsoever <em>is</em> not of faith is sin.</p>
+    <cite>Romans 14:23</cite>
+</div>
+
+<div class="scripture">
+    <p>Thou shalt not follow a multitude to do evil.</p>
+    <cite>Exodus 23:2</cite>
+</div>
+
+**IV.** Forasmuch as the Fall hath corrupted not only the nature of man but the works of his hands, and the institutions of society, commerce, and government are all permeated with the effects of sin; and forasmuch as the whole world lieth in wickedness (1 John 5:19); it followeth that no instrument, product, service, or institution devised by fallen men is wholly free from taint or corruption in its origin, production, or governance. This is the common condition of life in a fallen world, and is no new thing under the sun.
 
 <div class="scripture">
     <p>For then must ye needs go out of the world.</p>
@@ -51,7 +90,7 @@ Fifth and revised edition</p>
     <cite>Isaiah 24:5</cite>
 </div>
 
-**III.** Yet God hath not therefore abandoned the world, nor withdrawn His common grace from the affairs of men. He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust (Matthew 5:45); and by His common grace doth restrain sin, preserve order, and bring forth from the labours of fallen men things that may be received with thanksgiving by those who are His. Moreover, the Christian is called not to a posture of total renunciation of the world's instruments, but to a wise and temperate use of them, holding them loosely as one who knoweth that this present world and all its fashion is passing away. The time itself, in these evil days, is to be redeemed &mdash; that is, bought up and consecrated to wise and fruitful purpose &mdash; which urgency doth increase, and not diminish, as the world groweth darker.
+**V.** Yet God hath not therefore abandoned the world, nor withdrawn His common grace from the affairs of men. He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust (Matthew 5:45); and by His common grace doth restrain sin, preserve order, and bring forth from the labours of fallen men things that may be received with thanksgiving by those who are His. Moreover, the Christian is called not to a posture of total renunciation of the world's instruments, but to a wise and temperate use of them, holding them loosely as one who knoweth that this present world and all its fashion is passing away. The time itself, in these evil days, is to be redeemed &mdash; that is, bought up and consecrated to wise and fruitful purpose &mdash; which urgency doth increase, and not diminish, as the world groweth darker.
 
 <div class="scripture">
     <p>For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: for it is sanctified by the word of God and prayer.</p>
@@ -102,7 +141,7 @@ Fifth and revised edition</p>
 
 <label for="sn-scots-confession" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-scots-confession" class="margin-toggle"/>
-<span class="sidenote">The Scots Confession of A.D. 1560, Article 24: "Moreover, to kings, princes, rulers, and magistrates, we affirm that chiefly and most principally the conservation and purgation of the religion appertains."</span>
+<span class="sidenote">Scots Confession, A.D. 1560, Article 24: "Moreover, to kings, princes, rulers, and magistrates, we affirm that chiefly and most principally the conservation and purgation of the religion appertains."</span>
 
 <label for="sn-wcf-23" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-wcf-23" class="margin-toggle"/>
@@ -120,8 +159,7 @@ Fifth and revised edition</p>
     <cite>Romans 13:3</cite>
 </div>
 
-**IV.** A government that doth not answer to the description Paul giveth in Romans 13:3&ndash;4 &mdash; one that is a terror to good works rather than evil, that protecteth and promoteth idolatry, heresy, blasphemy, the murder of unborn children, and every abomination &mdash; is, Scripturally speaking, an *unlawful* government. It holdeth power by God's permissive providence, even as He permitted Pharaoh, Nebuchadnezzar, and Nero; but the power by which it doth such acts is, in Rutherford's exact words, "a sinful and usurped power." Such a government hath not forfeited a qualification whilst retaining its lawfulness &mdash; it hath ceased to be a lawful government altogether. Covenanted Christians cannot, and all Christians should not, own such magistrates to be lawful magistrates or to be the ministers of God in the sense of Romans 13:4. They ought indeed to be submitted to in all their lawful commands &mdash; not merely out of fear, as a matter of prudential necessity, but out of conscience toward God Himself, whose moral authority underlieth every lawful command regardless of the character of the instrument through which it is issued; for it is God's Law that is obeyed, not the unlawful ruler's person. But they cannot be submitted to *as lawful magistrates* &mdash; that is, as the
-Lord's ordained ministers for good in the sense of Romans 13:4 &mdash; for they have inverted that very description; and to own them as such would be to render to the creature the honour that belongeth to God alone.
+**IV.** A government that doth not answer to the description Paul giveth in Romans 13:3&ndash;4 &mdash; one that is a terror to good works rather than evil, that protecteth and promoteth idolatry, heresy, blasphemy, the murder of unborn children, and every abomination &mdash; is, Scripturally speaking, an *unlawful* government. It holdeth power by God's permissive providence, even as He permitted Pharaoh, Nebuchadnezzar, and Nero; but the power by which it doth such acts is, in Rutherford's exact words, "a sinful and usurped power." Such a government hath not forfeited a qualification whilst retaining its lawfulness &mdash; it hath ceased to be a lawful government altogether. Covenanted Christians cannot, and all Christians should not, own such magistrates to be lawful magistrates or to be the ministers of God in the sense of Romans 13:4. They ought indeed to be submitted to in all their lawful commands &mdash; not merely out of fear, as a matter of prudential necessity, but out of conscience toward God Himself, whose moral authority underlieth every lawful command regardless of the character of the instrument through which it is issued; for it is God's Law that is obeyed, not the unlawful ruler's person. But they cannot be submitted to *as lawful magistrates* &mdash; that is, as the Lord's ordained ministers for good in the sense of Romans 13:4 &mdash; for they have inverted that very description; and to own them as such would be to render to the creature the honour that belongeth to God alone.
 
 <label for="sn-rutherford-usurped" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-rutherford-usurped" class="margin-toggle"/>
@@ -147,57 +185,33 @@ Lord's ordained ministers for good in the sense of Romans 13:4 &mdash; for they 
 
 **II.** Three tiers of obligation must be carefully distinguished, according to the degree of covenant light a nation hath received.
 
-*First*, pagan or unevangelised nations &mdash; those not yet brought under the covenant light of the Gospel &mdash; whose magistrates may yet be submitted to as exercising natural law functions, protecting the just rights of citizens, neither imposing false religion upon them nor persecuting faithful Christians. These are in the position of Egypt under Pharaoh in Joseph's time, and may be owned as exercising a measure of lawful civil authority insofar as they fulfil the natural law function. The Westminster Confession of Faith's statement that "infidelity, or difference in religion, doth not make void the magistrate's just and legal authority" referreth to this tier &mdash; to those nations where the light of the Gospel hath not been infused, and not to covenanted Christian nations.
-
-*Second*, nations of the Anglosphere and Christian-heritage nations &mdash; those whose legal and constitutional heritage was shaped by the Reformation, or whose settler founders carried covenant obligations with them into new lands, extending the obligations of the Solemn League and Covenant of A.D. 1643 to their posterity throughout the world. These stand in a position analogous to Israel rather than Egypt, having received far greater light and having, in many cases, made solemn covenant with the Lord; and they face a correspondingly higher and stricter standard of accountability.
-
-*Third*, the formally covenanted nations of Scotland, England, and Ireland, together with their dominions and posterity, who did in the Solemn League and Covenant of A.D. 1643 enter into a perpetual covenant with the Lord their God. This covenant cannot be dissolved by the mere passage of time, by national apostasy, or by the will of later generations; for the covenant Lord bindeth posterity as He bound the fathers.
+*First*, pagan or unevangelised nations &mdash; those not yet brought under the covenant light of the Gospel &mdash; whose magistrates may yet be submitted to as exercising natural law functions, protecting the just rights of citizens, neither imposing false religion upon them nor persecuting faithful Christians. These are in the position of Egypt under Pharaoh in Joseph's time, and may be owned as exercising a measure of lawful civil authority insofar as they fulfil the natural law function. The Westminster Confession of Faith's statement that "infidelity, or difference in religion, doth not make void the magistrate's just and legal authority" referreth to this tier &mdash; to nations where the light of the Gospel hath not been infused, and not to covenanted Christian nations.
 
 <label for="sn-wcf-infidelity" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-wcf-infidelity" class="margin-toggle"/>
-<span class="sidenote">Westminster Confession of Faith, 23.4: "Infidelity, or difference in religion, doth not make void the magistrate's just and legal authority." This statement was written of nations not yet evangelised, not of covenanted Christian nations &mdash; a distinction critical to its correct application.</span>
+<span class="sidenote">Westminster Confession of Faith, 23.4. This statement was written of nations not yet evangelised, not of covenanted Christian nations &mdash; a distinction critical to its correct application.</span>
+
+*Second*, nations of the Anglosphere and Christian-heritage nations &mdash; those whose legal and constitutional heritage was shaped by the Reformation, or whose settler founders carried covenant obligations with them into new lands, extending the obligations of the Solemn League and Covenant of A.D. 1643 to their posterity throughout the world. These stand in a position analogous to Israel rather than Egypt, having received far greater light; and they face a correspondingly higher and stricter standard of accountability.
+
+*Third*, the formally covenanted nations of Scotland, England, and Ireland, together with their dominions and posterity, who did in the Solemn League and Covenant of A.D. 1643 enter into a perpetual covenant with the Lord their God. This covenant cannot be dissolved by the mere passage of time, by national apostasy, or by the will of later generations; for the covenant Lord bindeth posterity as He bound the fathers.
 
 **III.** Furthermore, a vital distinction must be maintained between *lip-service* and *active labour*. The Coronation Oath of the sovereign of Great Britain retaineth a nominal Christian form, requiring the maintenance of "the Protestant Reformed Religion established by law"; and this is not entirely without significance &mdash; it distinguisheth Great Britain in constitutional form from an explicitly secular republic. Yet swearing and labouring are different in kind, and not merely in degree. The Solemn League and Covenant required its subscribers to labour with their *estates and lives*, with sincerity, reality, and constancy. A magistrate who taketh a vestigial Christian oath and thereafter actively promotes and establishes what God forbids is not in a materially different position from one who repudiates all Christian obligation &mdash; for he hath added the aggravation of oath-breaking to his covenant-breaking. The Lord, who seeth through all insincerity and hypocrisy, is not honoured by constitutional forms that are hollowed out by the deeds that follow them.
 
 **IV.** That the Solemn League and Covenant remaineth binding in the sight of God upon the nations of Great Britain &mdash; notwithstanding all that hath since transpired in their civil and ecclesiastical history &mdash; is not a contention that can be dissolved by the mere force of subsequent events. The covenant was sworn with solemnity before the Eternal God, in His own name, and with the explicit acknowledgement that its obligations extended to posterity. What men have since done to repudiate it, they have done without God's leave and without power to release themselves from its bond. A wife who abandoneth her husband and taketh another hath not thereby dissolved her marriage in the eyes of God; she hath become an adulteress. So the nations that have abandoned the covenant Lord have not made their position better, but worse.
 
-The history of how this covenant was repudiated is one of the great national sins of these
-islands, and it is needful briefly to rehearse it, that the gravity of the present constitutional
-arrangement may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been
-sworn by the Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly
-had been convened in its service; and the most thoroughgoing Reformed settlement ever achieved in
-these lands was underway. Yet within a generation it was overthrown. At the Restoration of Charles
-II in A.D. 1660, the king &mdash; who had himself sworn the Solemn League and Covenant in
-A.D. 1651 at his coronation at Scone, and whose father had waged war against the Covenanting cause
-rather than submit to it &mdash; immediately and deliberately set about dismantling the entire
-covenanted work, proving himself one of the most cynical oath-breakers these islands have ever
-seen. In England, the Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers
-from their livings on St. Bartholomew's Day, the 24th of August, for refusing episcopal
-re-ordination and refusing to give their unfeigned assent and consent to everything prescribed in
-the newly revised Book of Common Prayer. But the Act went further still: it required every
-minister, university lecturer, and schoolmaster to subscribe a Declaration &mdash; in these
-words, from the Act itself &mdash; that the Solemn League and Covenant was *"in it selfe an
-unlawfull Oath and imposed upon the Subjects of this Realme against the knowne Lawes and
-Liberties of this Kingdome."*
+The history of how this covenant was repudiated is one of the great national sins of these islands, and it is needful briefly to rehearse it, that the gravity of the present constitutional arrangement may be rightly understood. By A.D. 1643, the Solemn League and Covenant had been sworn by the Parliaments and churches of Scotland, England, and Ireland; the Westminster Assembly had been convened in its service; and the most thoroughgoing Reformed settlement ever achieved in these lands was underway. Yet within a generation it was overthrown. At the Restoration of Charles II in A.D. 1660, the king &mdash; who had himself sworn the Solemn League and Covenant in A.D. 1651 at his coronation at Scone, and whose father had waged war against the Covenanting cause rather than submit to it &mdash; immediately and deliberately set about dismantling the entire covenanted work, proving himself one of the most cynical oath-breakers these islands have ever seen. In England, the Act of Uniformity of A.D. 1662 ejected some two thousand faithful ministers from their livings on St. Bartholomew's Day, the 24th of August, for refusing episcopal re-ordination and refusing to give their unfeigned assent and consent to everything prescribed in the newly revised Book of Common Prayer. But the Act went further still: it required every minister, university lecturer, and schoolmaster to subscribe a Declaration &mdash; in these words, from the Act itself &mdash; that the Solemn League and Covenant was *"in it selfe an unlawfull Oath and imposed upon the Subjects of this Realme against the knowne Lawes and Liberties of this Kingdome."*
 
 <label for="sn-act-uniformity-primary" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-act-uniformity-primary" class="margin-toggle"/>
-<span class="sidenote">Act of Uniformity, 14 Cha. 2. c. 4 (A.D. 1662), Section VI: Declaration required of
-all ministers, deans, university readers, schoolmasters, and tutors. Text from <em>Statutes of
-the Realm, Volume 5, 1625&ndash;80</em>, ed. John Raithby (s.l., 1819), via British History
-Online, https://www.british-history.ac.uk/statutes-realm/vol5/pp364-370. This clause was
-eventually removed from the required Declaration by Section VIII of the same Act after the 25th
-of March A.D. 1682 &mdash; having stood, and done its destructive work, for twenty years.</span>
+<span class="sidenote">Act of Uniformity, 14 Cha. 2. c. 4 (A.D. 1662), Section VI: Declaration required of all ministers, deans, university readers, schoolmasters, and tutors. Text from <em>Statutes of the Realm, Volume 5, 1625&ndash;80</em>, ed. John Raithby (s.l., 1819), via British History Online, https://www.british-history.ac.uk/statutes-realm/vol5/pp364-370. This clause was eventually removed from the required Declaration by Section VIII of the same Act after the 25th of March A.D. 1682 &mdash; having stood, and done its destructive work, for twenty years.</span>
 
-In Scotland, the same Covenant was burned by the public hangman in Edinburgh; episcopacy was
-re-imposed upon the Kirk by royal command; and the faithful who refused to submit were driven to
-the fields, hunted with soldiers, and slaughtered in what became known as "the Killing Time."
+In Scotland, the same Covenant was burned by the public hangman in Edinburgh; episcopacy was re-imposed upon the Kirk by royal command; and the faithful who refused to submit were driven to the fields, hunted with soldiers, and slaughtered in what became known as "the Killing Time."
 
 <label for="sn-killing-time" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sn-killing-time" class="margin-toggle"/>
-<span class="sidenote">"The Killing Time" refers principally to the years A.D. 1684&ndash;1685, during which the persecution of the Covenanting remnant in Scotland reached its most intense and murderous pitch under the administration of the Earl of Lauderdale and others. Richard Cameron, Donald Cargill, James Renwick, and many others suffered martyrdom in this period.</span>
+<span class="sidenote">"The Killing Time" refers principally to the years A.D. 1684&ndash;1685, during which the persecution of the Covenanting remnant in Scotland reached its most intense pitch. Richard Cameron, Donald Cargill, James Renwick, and many others suffered martyrdom in this period.</span>
 
-The cess of A.D. 1678, already noted in these pages, was but one instrument of this Erastian tyranny. In A.D. 1690, a Presbyterian church settlement was indeed restored in Scotland &mdash; but at the price of Erastianism, the state retaining dominance over the Kirk in a manner incompatible with the Crown Rights of the Redeemer and with the terms of the original covenanted Reformation. The Acts of Union of A.D. 1707 buried the Scottish covenanted settlement still deeper, binding Scotland constitutionally to an English establishment built upon prelacy, crown supremacy, and the explicit burial of the Solemn League and Covenant. The constitutional arrangement that hath descended to Great Britain today is therefore the direct heir of these covenant-breakings &mdash; dressed in pomp and ceremony, adorned with Coronation Oaths and state prayers, attended by archbishops and choristers and ancient rites &mdash; and is for all that a whitewashed sepulchre. Our Lord's description of those who garnish the tombs of the prophets whilst in their hearts rejecting them is not inappositely applied to a constitution that retaineth the outward vesture of Christian nationhood whilst its substance was torn away by the very men who swore to preserve it. God is not mocked; and as the Solemn League itself solemnly warned, those who partake in such covenant-breaking are in danger to receive of its plagues.
+The cess of A.D. 1678, addressed below, was but one instrument of this Erastian tyranny. In A.D. 1690, a Presbyterian church settlement was indeed restored in Scotland &mdash; but at the price of Erastianism, the state retaining dominance over the Kirk in a manner incompatible with the Crown Rights of the Redeemer and with the terms of the original covenanted Reformation. The Acts of Union of A.D. 1707 buried the Scottish covenanted settlement still deeper, binding Scotland constitutionally to an English establishment built upon prelacy, crown supremacy, and the explicit burial of the Solemn League and Covenant. The constitutional arrangement that hath descended to Great Britain today is therefore the direct heir of these covenant-breakings &mdash; dressed in pomp and ceremony, adorned with Coronation Oaths and state prayers, attended by archbishops and choristers and ancient rites &mdash; and is for all that a whitewashed sepulchre. Our Lord's description of those who garnish the tombs of the prophets whilst in their hearts rejecting them is not inappositely applied to a constitution that retaineth the outward vesture of Christian nationhood whilst its substance was torn away by the very men who swore to preserve it. God is not mocked; and as the Solemn League itself solemnly warned, those who partake in such covenant-breaking are in danger to receive of its plagues.
 
 <div class="scripture">
     <p>Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead <em>men's</em> bones, and of all uncleanness.</p>
@@ -209,7 +223,7 @@ The cess of A.D. 1678, already noted in these pages, was but one instrument of t
     <cite>Jeremiah 2:32</cite>
 </div>
 
-**V.** A government of a covenanted nation, or of a Christian-heritage nation whose founders carried covenant obligations with them, that hath officially established the toleration and protection of idolatry, false religion, heresy, blasphemy, and abominations such as the murder of unborn children, is simply an *unlawful* government. It is not a government with a deficiency; it is not a partially lawful government requiring qualification &mdash; it is a government exercising sinful and usurped power in those acts by which it overturns and inverts the Law of the supreme Lawgiver. Such a government may be submitted to out of fear, in things that are otherwise lawful, as a matter of prudential necessity; but it cannot be submitted to out of conscience, as though it were the Lord's ordained minister for good.
+**V.** A government of a covenanted nation, or of a Christian-heritage nation whose founders carried covenant obligations with them, that hath officially established the toleration and protection of idolatry, false religion, heresy, blasphemy, and abominations such as the murder of unborn children, is simply an *unlawful* government. It is not a government with a deficiency; it is not a partially lawful government requiring qualification &mdash; it is a government exercising sinful and usurped power in those acts by which it overturns and inverts the Law of the supreme Lawgiver. Such a government may be submitted to out of conscience in its lawful commands, for it is God's Law that is obeyed through those commands, not the unlawful ruler's person; but it cannot be submitted to *as* a lawful magistracy, as though it were the Lord's ordained minister for good.
 
 ---
 
@@ -219,7 +233,7 @@ The cess of A.D. 1678, already noted in these pages, was but one instrument of t
 
 **II.** Concerning the payment of tribute, the Scripture and the faithful Covenanting tradition together require the following distinctions to be carefully maintained.
 
-*First* &mdash; Ordinary civil taxation, paid to magistrates for the general maintenance of civil order and the protection of persons and property, may be paid even to an unlawful or wicked government, *for wrath's sake* &mdash; to avoid punishment and maintain peace &mdash; but *not for conscience' sake*, as though such a government were thereby acknowledged as the Lord's lawful minister for good. For to pay taxes for conscience' sake is an honour reserved for those alone who are lawful ordinances and ministers of God for good (Romans 13:4, 7). One who submitteth to the might of an unlawful ruler doth not thereby submit to his right to rule; and one who payeth taxes under compulsion doth not thereby acknowledge the legitimacy of the government that exacteth them.
+*First* &mdash; Ordinary civil taxation, paid to magistrates for the general maintenance of civil order and the protection of persons and property, may be paid even to an unlawful or wicked government, for it is owed to God whose order civil society &mdash; even in its corrupt form &mdash; partially reflects; but it is not to be paid *as conscience toward a lawful magistrate*, as though such a government were thereby acknowledged as the Lord's lawful minister for good. One who submitteth to the might of an unlawful ruler doth not thereby submit to his right to rule; and one who payeth taxes under compulsion doth not thereby acknowledge the legitimacy of the government that exacteth them.
 
 *Second* &mdash; A tax that is declaredly and explicitly enacted for a sinful stated purpose from its own terms must be refused, even at great personal cost. Such was the Scottish cess of A.D. 1678, levied by open declaration for the suppression of faithful Gospel meetings; and those faithful Covenanters who refused it did so in accordance with true Christian principle. The distinction is between a tax later misapplied and a tax wicked from its very founding terms.
 
@@ -264,19 +278,11 @@ The cess of A.D. 1678, already noted in these pages, was but one instrument of t
     <cite>1 Corinthians 10:25&ndash;26</cite>
 </div>
 
-**IV.** Some, rightly perceiving the depth of corruption in the supply chains, institutions, and civil arrangements of the present age, have concluded that the faithful Christian is obligated to pursue a thoroughgoing agrarian self-sufficiency — withdrawing from the commerce, technology, and economies of the fallen world-system as completely as circumstances permit, and building in their place close-knit, land-based communities that minimise dependency upon tainted instruments altogether. This counsel is not without genuine wisdom and biblical warrant as a directional principle: the creational mandate to dress and keep the earth (Genesis 2:15), the prophetic vision of every man under his vine and fig tree (Micah 4:4), and the pilgrim's proper looseness of grip upon this present world all commend a glad preference for simplicity, for stewardship of God's creation, and for the reduction of entanglement with corrupt systems where such reduction is genuinely available. A family or community that by God's providence hath the land, the skill, and the occasion to live in greater independence from the corruptions of the present age may receive that circumstance with thankfulness as a signal mercy.
-
-Yet this counsel errs when it is elevated from a providential blessing and a sanctified aspiration into a universal binding obligation — as though those to whom God hath not given land, community, or circumstance are thereby placed in a state of sin. Holy Scripture doth not so teach. The Apostle Paul laboured as a tent-maker in the cities of the Roman world, using its roads, its courts, and its citizenship for the advance of the Gospel without rebuke (Acts 16:37; 25:11). Daniel and his companions served at the heart of Babylon's administration for decades (Daniel 1–6). Joseph sustained the nations of the known world from the granaries of Egypt (Genesis 41–47). None of these are censured for failing to withdraw from the world's systems; all are commended for faithful stewardship within them. The standard, as ever, is not the most thoroughgoing withdrawal conceivable, but the one faithfully derived from Holy Scripture.
-
-Furthermore, it is to be noted that the communities which have most consistently pursued this agrarian withdrawal — among them those of the Anabaptist tradition, such as the Amish — have done so upon a theological foundation that the Reformed faith cannot own: the Anabaptist two-kingdoms dualism which removes Christ's Kingship from the civil realm altogether, confines the church to a gathered community of the visibly regenerate entirely separate from the state, and treats all civil participation, oath-swearing, and magisterial authority as incompatible with Christian discipleship. This is precisely the position that Psalm 2 and the whole testimony of the covenanted Reformation refute. The social withdrawal and the theological error are in this case inseparable: the agrarian community is the practical outworking of a theology that denies the very Crown Rights of the Redeemer over nations which it is the duty of every Christian to assert.
-
-The true and final answer to the corruption of the world's systems is not the withdrawal of the remnant into separated communities, but the Covenanted Reformation of those systems themselves — the conversion of the nations, the establishment of Christ's Kingship over the civil realm, and the progressive advance of His Kingdom until the knowledge of the LORD covereth the earth as the waters cover the sea (Isaiah 11:9; Habakkuk 2:14). When Christian magistrates govern according to God's Law, and when the commerce and institutions of nations are ordered by the fear of the LORD, the casuistical burden of navigating tainted instruments is lightened not by withdrawal but by reformation. The agrarian aspiration answers a question — how shall the remnant separate from a corrupt world-system? — that the advancing Kingdom progressively dissolves by reforming the system itself. The garden is not abandoned in the end; it is glorified. "And they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it." (Micah 4:4)
-
 ---
 
 ## Chapter VI &mdash; Of the Christian's Use of Tainted Instruments
 
-**I.** The Christian living in a fallen world doth inevitably make use of instruments, products, services, and institutions whose origins, supply chains, or governance are in whole or in part the fruit of sin. This is unavoidable short of a total withdrawal from the world, which the Lord Jesus Christ doth not command. Furthermore, the Christian is expressly called to use the world's instruments whilst not abusing them, holding them as a pilgrim who knoweth that this present world and all its fashion is transient; and to redeem the time &mdash; that is, to buy up and consecrate to worthy purpose the hours God's providence hath placed before him, precisely because the days are evil.
+**I.** The Christian living in a fallen world doth inevitably make use of instruments, products, services, and institutions whose origins, supply chains, or governance are in whole or in part the fruit of sin. This is unavoidable short of a total withdrawal from the world, which the apostle doth not command nor permit. Furthermore, the Christian is expressly called to use the world's instruments whilst not abusing them, holding them as a pilgrim who knoweth that this present world and all its fashion is transient; and to redeem the time &mdash; that is, to buy up and consecrate to worthy purpose the hours God's providence hath placed before him, precisely because the days are evil.
 
 <div class="scripture">
     <p>And they that use this world, as not abusing <em>it</em>: for the fashion of this world passeth away.</p>
@@ -288,7 +294,7 @@ The true and final answer to the corruption of the world's systems is not the wi
     <cite>Ephesians 5:16</cite>
 </div>
 
-**II.** The Holy Scripture furnisheth many examples of godly men and women who made use of tainted instruments &mdash; and even of things built in wickedness &mdash; without sin: Jacob's household sustained by Egyptian grain produced by the machinery of a pagan slave empire (Genesis 41&ndash;47); the Tabernacle built from the spoil of Egypt, and the Temple from the materials and skilled labour of pagan Phoenicia, God filling both with His own glory (Exodus 35&ndash;36; 1 Kings 5; 8:10&ndash;11); Daniel, Shadrach, Meshach, and Abednego dwelling within Babylon, built in rebellion against God, and serving its administration faithfully for decades (Daniel 1&ndash;6); the walls of Jerusalem rebuilt by Artaxerxes' pagan funding and Persian timber (Nehemiah 2:8); the Lord Christ Himself handling the denarius bearing Caesar's image (Matthew 22:20); and the Apostle Paul using Roman roads, Roman citizenship, and Roman courts for the advance of the Gospel (Acts 16:37; 25:11). Most profoundly of all, the Cross itself &mdash; an instrument designed by pagan Rome for terror and degradation &mdash; became the instrument of the world's redemption, and is now the glory of every believer:
+**II.** The Holy Scripture furnisheth many examples of godly men and women who made use of tainted instruments &mdash; and even of things built in wickedness &mdash; without sin: Jacob's household sustained by Egyptian grain produced by the machinery of a pagan slave empire (Genesis 41&ndash;47); the Tabernacle built from the spoil of Egypt, and the Temple from the materials and skilled labour of pagan Phoenicia, God filling both with His own glory (Exodus 35&ndash;36; 1 Kings 5; 8:10&ndash;11); Daniel, Shadrach, Meshach, and Abednego dwelling within Babylon and serving its administration faithfully for decades (Daniel 1&ndash;6); the walls of Jerusalem rebuilt by Artaxerxes' pagan funding and Persian timber (Nehemiah 2:8); the Lord Christ Himself handling the denarius bearing Caesar's image (Matthew 22:20); and the Apostle Paul using Roman roads, Roman citizenship, and Roman courts for the advance of the Gospel (Acts 16:37; 25:11). Most profoundly of all, the Cross itself &mdash; an instrument designed by pagan Rome for terror and degradation &mdash; became the instrument of the world's redemption, and is now the glory of every believer:
 
 <div class="scripture">
     <p>But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.</p>
@@ -307,7 +313,7 @@ Within material cooperation, the following graduated distinctions apply: *immedi
 <input type="checkbox" id="sn-baxter" class="margin-toggle"/>
 <span class="sidenote">Richard Baxter, <em>A Christian Directory</em> (A.D. 1673): "He that will join in no good that is mixed by men with faultiness and evil must separate from all the world, and all from him: But how will he separate from himself?"</span>
 
-**IV.** Regarding the character of the dependency upon the original wrong, the following criteria are to be applied together and not in isolation: whether the taint is constitutive of the instrument itself, or historical and indirect; whether present use actively sustaineth the original evil, or not; whether the evil is the declared purpose of the instrument, or an incidental corruption of an otherwise lawful one; whether restitution hath been made or pursued, or the wrong continueth with full impunity; whether genuinely equivalent alternatives exist; and whether the wrongdoer maketh any Christian profession &mdash; since obligations of separation are most stringent toward those called a brother.
+**IV.** Regarding the character of the dependency upon the original wrong, the following criteria are to be applied together and not in isolation: whether the taint is *constitutive* of the instrument itself &mdash; meaning the evil is baked into its very nature, design, and purpose, such that the instrument would not exist in its present form *but for* that evil &mdash; or whether it is merely *historical and indirect*, the instrument having been developed and approved independently of the wrong, and subjected to that wrong only by way of subsequent academic association; whether present use actively sustaineth the original evil, or not; whether the evil is the declared purpose of the instrument, or an incidental corruption of an otherwise lawful one; whether restitution hath been made or pursued, or the wrong continueth with full impunity; whether genuinely equivalent alternatives exist; and whether the wrongdoer maketh any Christian profession &mdash; since obligations of separation are most stringent toward those called a brother.
 
 **V.** Where the criteria of constitutive dependency, active sustaining of ongoing evil, declared wicked purpose, and formal or immediate cooperation all simultaneously obtain &mdash; and where plainly equivalent alternatives exist &mdash; the Christian's conscience is bound to refuse the instrument. Where the criteria are distributed &mdash; the cooperation being passive, mediate, and remote; the taint historical and indirect; the purpose of the instrument otherwise lawful; the use not sustaining the specific original wrong; and refusal amounting in practice to a withdrawal from legitimate life &mdash; the Christian may receive and use what God's providence hath placed before him, with thanksgiving, prayer, continued witness against the evil, preference for cleaner alternatives as they become genuinely accessible, and the looseness of grip that becometh a pilgrim in a foreign land.
 
@@ -344,5 +350,3 @@ Within material cooperation, the following graduated distinctions apply: *immedi
 *A companion Catechism on the same subjects, in question-and-answer form, is offered as a separate post.*
 
 *Soli Deo Gloria.*
-
-
