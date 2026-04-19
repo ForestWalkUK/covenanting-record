@@ -8,11 +8,10 @@ excerpt: "The Lord shall, in the season of His appointed Millennial glory, pour 
 ---
 
 <p style="font-size:1.2rem; line-height:1.9rem; color:#555; font-style:italic; border-left:3px solid #ccc8b8; padding-left:1.5rem; margin-bottom:2.5rem;">
-The following is offered not as a settled or authoritative standard, but as a
-working draft drawn from Holy Scripture, the Westminster Standards, and the
-testimony of the faithful Covenanted Reformation &mdash; set down for the
-author's own prayerful consideration and offered to any who may find it
-profitable.
+The following is offered, not as an authoritative or settled standard, but as a 
+working draft derived from Holy Scripture and the testimony of our faithful 
+Reformed forebears; being set down for the author’s own prayerful meditation, 
+and commended to any who may find it profitable.
 </p>
 
 **I.** As the Lord Jesus, in the withering of the fig tree, did judicially
