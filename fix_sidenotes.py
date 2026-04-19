@@ -101,7 +101,7 @@ def fix_sidenotes_in_text(text):
 
 def backup_file(src_path, backup_root):
     """Copies file to backup directory, preserving subfolder structure."""
-    rel = src_path.relative_to(Path.cwd())
+    rel = src_path.resolve().relative_to(Path.cwd().resolve())
     dest = backup_root / rel
     dest.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(src_path, dest)

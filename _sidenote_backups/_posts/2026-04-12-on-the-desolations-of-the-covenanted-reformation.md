@@ -21,7 +21,11 @@ old Covenanters: the knowledge that they too saw the desolation of what had
 been built, and yet they did not despair. Richard Cameron, dying at Airdsmoss,
 is reported to have said before the battle,
 *"Lord, spare the green and take the ripe."* He was twenty-six years of age.
-<label for="sn-cameron" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-cameron" class="margin-toggle"/><span class="sidenote">Richard Cameron (c.&nbsp;1648&ndash;1680), the <em>Lion of the Covenant</em>, field preacher and leader of the Cameronians, killed at the skirmish of Airdsmoss.</span>
+
+<label for="sn-cameron" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-cameron" class="margin-toggle"/>
+<span class="sidenote">Richard Cameron (c.&nbsp;1648&ndash;1680), the <em>Lion of the Covenant</em>,
+field preacher and leader of the Cameronians, killed at the skirmish of Airdsmoss.</span>
 
 The testimony did not end with his death. It was continued by those who gathered
 his mantle: by Cargill, by Renwick, and by the faithful who signed the Sanquhar

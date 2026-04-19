@@ -35,7 +35,10 @@ Sixth and revised edition</p>
 **Q. 3.** Is a government that doth not answer to this description an imperfect but still lawful government?
 
 **A.** No. A government that is a terror to good works rather than evil, that protecteth and promoteth idolatry, heresy, blasphemy, and the murder of the innocent, is not a partially lawful government &mdash; it is simply an *unlawful* government, exercising what Rutherford rightly calleth "a sinful and usurped power" in those acts by which it overturns the Law of God. It holdeth power by God's permissive providence, even as God permitted Pharaoh and Nero; but permissive providence is not divine approbation. God's decretive will in permitting a ruler is not His approving will.
-<label for="sn-rutherford-q3" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-rutherford-q3" class="margin-toggle"/><span class="sidenote">Samuel Rutherford, <em>Lex Rex</em> (A.D. 1644): "The powers that be are ordained of God&hellip; but kings commanding unjust things are but men, and sinful men, and the power by which they do such acts is a sinful and usurped power."</span>
+
+<label for="sn-rutherford-q3" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-rutherford-q3" class="margin-toggle"/>
+<span class="sidenote">Samuel Rutherford, <em>Lex Rex</em> (A.D. 1644): "The powers that be are ordained of God&hellip; but kings commanding unjust things are but men, and sinful men, and the power by which they do such acts is a sinful and usurped power."</span>
 
 ---
 

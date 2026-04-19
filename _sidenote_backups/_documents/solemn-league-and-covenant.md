@@ -16,7 +16,12 @@ in 1643. It bound the nations of Scotland, England, and Ireland to the
 defence and propagation of the Reformed religion, the extirpation of
 Popery and Prelacy, and the preservation of the rights and liberties
 of the Parliaments and kingdoms.
-<label for="sn-slc" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-slc" class="margin-toggle"/><span class="sidenote">The Covenant was sworn in St. Margaret's Church, Westminster, on 25th September 1643, by members of the English Parliament and Westminster Assembly.</span>
+
+<label for="sn-slc" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-slc" class="margin-toggle"/>
+<span class="sidenote">The Covenant was sworn in St. Margaret's Church, Westminster,
+on 25th September 1643, by members of the English Parliament and
+Westminster Assembly.</span>
 
 It is not an obsolete document. It is a binding national oath, sworn in
 the name of the Triune God, and never formally released. The obligations
