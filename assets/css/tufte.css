@@ -499,8 +499,24 @@ pre {
         padding: 1rem 1.5rem;
     }
 
+    /* Sidenotes become inline footnotes on mobile */
     .sidenote, .marginnote {
-        display: none;
+        display: inline;
+        float: none;
+        margin: 0;
+        width: auto;
+        max-width: none;
+        font-size: 0.95rem;
+        color: #666;
+        vertical-align: super;
+        line-height: 0;
+    }
+
+    .sidenote:before {
+        content: " [" counter(sidenote-counter) "] ";
+        vertical-align: super;
+        font-size: 0.8rem;
+        line-height: 0;
     }
 
     label.margin-toggle:not(.sidenote-number) {
@@ -509,14 +525,7 @@ pre {
 
     input.margin-toggle:checked + .sidenote,
     input.margin-toggle:checked + .marginnote {
-        display: block;
-        float: left;
-        left: 1rem;
-        clear: both;
-        width: 95%;
-        margin: 1rem 2.5%;
-        vertical-align: baseline;
-        position: relative;
+        display: inline;
     }
 
     figure {
