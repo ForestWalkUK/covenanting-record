@@ -599,3 +599,44 @@ body.has-sidebar .marginnote {
         white-space: nowrap;
     }
 }
+
+/* ============================================================
+   VerseClick Scripture Popup Styling
+   Styled to match The Covenanting Record's parchment palette
+   ============================================================ */
+
+/* The verse reference link in the body text */
+.vcVerseLink {
+    color: #6b4c2a;            /* warm brown, matching the site's link colour */
+    text-decoration: none;
+    border-bottom: 1px dotted #6b4c2a;
+    font-style: normal;
+}
+
+.vcVerseLink:hover {
+    color: #4a3318;
+    border-bottom-style: solid;
+}
+
+/* The popup verse text area */
+.vcPopupVerseText {
+    background-color: #faf8f3;  /* site's parchment background */
+    color: #333333;
+    font-family: 'EB Garamond', 'Garamond', Georgia, serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    border: 1px solid #d4c9a8;
+    padding: 0.75rem 1rem;
+}
+
+/* The popup header (book/chapter/verse reference) */
+.vcPopupHeaderText {
+    background-color: #e8e1cc;  /* slightly darker parchment for the header band */
+    color: #4a3318;
+    font-family: 'EB Garamond', 'Garamond', Georgia, serif;
+    font-size: 0.95rem;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    padding: 0.4rem 1rem;
+    border-bottom: 1px solid #d4c9a8;
+}
