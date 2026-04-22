@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Covenanting Record — Style Guide</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
+
+:root {
+  --parchment: #faf8f3;
+  --parchment-mid: #f4f0e8;
+  --parchment-dark: #e8e1cc;
+  --border: #d4c9a8;
+  --border-light: #e8e4d8;
+  --brown: #6b4c2a;
+  --brown-dark: #4a3318;
+  --text: #111;
+  --text-mid: #444;
+  --text-light: #888;
+  --gold: #b8a87a;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'EB Garamond', Georgia, serif;
+  background: var(--parchment);
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* ── Page header ── */
+.guide-header {
+  background: var(--brown-dark);
+  color: var(--parchment);
+  padding: 2.5rem 3rem 2rem;
+  border-bottom: 4px solid var(--gold);
+}
+.guide-header h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.3rem;
+}
+.guide-header p {
+  font-size: 1rem;
+  color: var(--parchment-dark);
+  font-style: italic;
+}
+
+/* ── Layout ── */
+.guide-body {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: 100vh;
+}
+
+.guide-nav {
+  background: var(--parchment-mid);
+  border-right: 1px solid var(--border);
+  padding: 2rem 1.2rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+.guide-nav h3 {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-light);
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+  font-style: normal;
+}
+.guide-nav a {
+  display: block;
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1rem;
+  color: var(--text-mid);
+  text-decoration: none;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  line-height: 1.5;
+}
+.guide-nav a:hover { background: var(--parchment-dark); color: var(--text); }
+
+.guide-content {
+  padding: 3rem 4rem 6rem;
+  max-width: 900px;
+}
+
+/* ── Section headers ── */
+.section {
+  margin-bottom: 4rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-light);
+}
+.section:last-child { border-bottom: none; }
+
+.section-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gold);
+  margin-bottom: 0.4rem;
+  font-style: normal;
+}
+.section h2 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--brown-dark);
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+.section-intro {
+  font-size: 1.05rem;
+  color: var(--text-mid);
+  font-style: italic;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* ── Style cards ── */
+.style-card {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+.style-card-header {
+  background: var(--parchment-mid);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 1.2rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+.style-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--brown-dark);
+  letter-spacing: 0.03em;
+}
+.style-desc {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  font-style: italic;
+}
+.style-preview {
+  padding: 1.5rem 2rem;
+  background: var(--parchment);
+  border-bottom: 1px solid var(--border-light);
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
+.style-code {
+  padding: 0.8rem 1.2rem;
+  background: #1e1e2e;
+  overflow-x: auto;
+}
+.style-code pre {
+  font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: #cdd6f4;
+  white-space: pre;
+}
+/* syntax colours */
+.code-tag { color: #89b4fa; }
+.code-attr { color: #f38ba8; }
+.code-val { color: #a6e3a1; }
+.code-comment { color: #6c7086; font-style: italic; }
+.code-punct { color: #cba6f7; }
+.code-md { color: #f9e2af; }
+
+/* ── Preview typography matching tufte.css ── */
+.prev-h1 { font-size: 2.4rem; font-weight: 400; line-height: 1.1; margin-bottom: 0.5rem; }
+.prev-h2 { font-size: 1.6rem; font-weight: 400; font-style: italic; line-height: 1.1; margin-bottom: 0.5rem; }
+.prev-h3 { font-size: 1.3rem; font-weight: 400; font-style: italic; margin-bottom: 0.5rem; }
+
+.prev-blockquote {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+  border-left: 3px solid var(--border);
+  color: var(--text-mid);
+}
+
+.prev-scripture {
+  font-style: italic;
+  border-left: 3px solid var(--gold);
+  padding-left: 1.2rem;
+  color: #333;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.prev-scripture cite {
+  display: block;
+  font-style: normal;
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin-top: 0.4rem;
+}
+
+.prev-document-title {
+  font-size: 1.3rem;
+  font-variant: small-caps;
+  text-align: center;
+  line-height: 1.8;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+.prev-document-preamble {
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--text-mid);
+  padding: 0.8rem 1.2rem;
+  border-left: 3px solid var(--border);
+}
+
+.prev-sidenote-demo {
+  position: relative;
+  overflow: hidden;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.prev-sidenote-inline {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 35%;
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--border-light);
+  line-height: 1.5;
+}
+.prev-sidenote-inline::before { content: "¹ "; font-size: 0.75rem; }
+.prev-sidenote-marker { font-size: 0.75rem; vertical-align: super; color: var(--text-mid); }
+
+.prev-marginnote-demo {
+  position: relative;
+  overflow: hidden;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.prev-marginnote-inline {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 35%;
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--border-light);
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.prev-hr { border: none; border-top: 1px solid #ccc; width: 55%; margin: 0.5rem 0; }
+
+.prev-tag {
+  display: inline-block;
+  font-size: 0.8rem;
+  background: var(--parchment-dark);
+  color: #555;
+  padding: 0.1rem 0.5rem;
+  border-radius: 2px;
+  font-style: normal;
+}
+
+.prev-em { font-style: italic; }
+.prev-strong { font-weight: 600; }
+.prev-small { font-size: 0.85rem; color: var(--text-light); font-style: italic; }
+
+/* ── Frontmatter table ── */
+.fm-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  margin-top: 1rem;
+}
+.fm-table th {
+  text-align: left;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-light);
+  padding: 0.4rem 0.8rem;
+  border-bottom: 2px solid var(--border);
+  background: var(--parchment-mid);
+  font-style: normal;
+}
+.fm-table td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--border-light);
+  vertical-align: top;
+}
+.fm-table tr:last-child td { border-bottom: none; }
+.fm-key {
+  font-family: Consolas, monospace;
+  font-size: 0.85rem;
+  color: var(--brown);
+  white-space: nowrap;
+}
+.fm-req {
+  font-size: 0.72rem;
+  color: #c0392b;
+  font-weight: 600;
+  font-style: normal;
+  white-space: nowrap;
+}
+.fm-opt {
+  font-size: 0.72rem;
+  color: var(--text-light);
+  font-style: normal;
+  white-space: nowrap;
+}
+.fm-example {
+  font-family: Consolas, monospace;
+  font-size: 0.82rem;
+  color: var(--text-mid);
+}
+.fm-notes { font-size: 0.9rem; color: var(--text-mid); }
+
+/* ── Notes / callouts ── */
+.note {
+  background: var(--parchment-mid);
+  border-left: 3px solid var(--gold);
+  padding: 0.8rem 1.2rem;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--text-mid);
+  margin: 1rem 0;
+  border-radius: 0 2px 2px 0;
+}
+.note strong { font-style: normal; color: var(--brown-dark); }
+
+/* ── Quick reference badge ── */
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 2px;
+  margin-left: 0.5rem;
+}
+.badge-post { background: #e8f4e8; color: #2d6a2d; }
+.badge-doc  { background: #e8eef8; color: #2d4a8a; }
+.badge-both { background: var(--parchment-dark); color: var(--brown-dark); }
+</style>
+</head>
+<body>
+
+<div class="guide-header">
+  <h1>The Covenanting Record — Style Guide</h1>
+  <p>A complete reference for formatting posts and documents in Markdown</p>
+</div>
+
+<div class="guide-body">
+
+  <nav class="guide-nav">
+    <h3>Contents</h3>
+    <a href="#frontmatter">Front Matter</a>
+    <a href="#headings">Headings</a>
+    <a href="#paragraphs">Paragraphs &amp; Prose</a>
+    <a href="#scripture">Scripture Blocks</a>
+    <a href="#blockquote">Blockquotes</a>
+    <a href="#sidenotes">Sidenotes</a>
+    <a href="#marginnotes">Margin Notes</a>
+    <a href="#document-styles">Document Styles</a>
+    <a href="#inline">Inline Formatting</a>
+    <a href="#dividers">Dividers</a>
+    <a href="#tags">Tags</a>
+    <a href="#verseclick">Scripture References</a>
+    <a href="#tips">Practical Tips</a>
+  </nav>
+
+  <main class="guide-content">
+
+    <!-- FRONT MATTER -->
+    <div class="section" id="frontmatter">
+      <div class="section-label">Section 01</div>
+      <h2>Front Matter</h2>
+      <p class="section-intro">Every file begins with a front matter block between <code style="font-size:0.9rem;">---</code> markers. This tells Jekyll the title, date, layout, and other metadata.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Journal Post</span>
+          <span class="style-desc badge badge-post">posts only</span>
+        </div>
+        <div class="style-code">
+          <pre><span class="code-comment">---</span>
+<span class="code-attr">layout</span><span class="code-punct">:</span> <span class="code-val">post</span>
+<span class="code-attr">title</span><span class="code-punct">:</span> <span class="code-val">"Your Post Title Here"</span>
+<span class="code-attr">date</span><span class="code-punct">:</span> <span class="code-val">2026-04-23 10:00:00 +0000</span>
+<span class="code-attr">excerpt</span><span class="code-punct">:</span> <span class="code-val">"One or two sentences summarising the post."</span>
+<span class="code-attr">tags</span><span class="code-punct">:</span> <span class="code-val">[covenant, reformation, scotland]</span>
+<span class="code-attr">comments</span><span class="code-punct">:</span> <span class="code-val">true</span>
+<span class="code-comment">---</span></pre>
+        </div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Historical Document</span>
+          <span class="style-desc badge badge-doc">_documents only</span>
+        </div>
+        <div class="style-code">
+          <pre><span class="code-comment">---</span>
+<span class="code-attr">layout</span><span class="code-punct">:</span> <span class="code-val">document</span>
+<span class="code-attr">title</span><span class="code-punct">:</span> <span class="code-val">"The Solemn League and Covenant"</span>
+<span class="code-attr">subtitle</span><span class="code-punct">:</span> <span class="code-val">"A Brief Introduction and Text"</span>
+<span class="code-attr">description</span><span class="code-punct">:</span> <span class="code-val">"Short description for SEO."</span>
+<span class="code-attr">order</span><span class="code-punct">:</span> <span class="code-val">1</span>
+<span class="code-attr">section</span><span class="code-punct">:</span> <span class="code-val">"Historical Documents"</span>
+<span class="code-attr">comments</span><span class="code-punct">:</span> <span class="code-val">false</span>
+<span class="code-comment">---</span></pre>
+        </div>
+      </div>
+
+      <table class="fm-table">
+        <tr><th>Key</th><th>Required?</th><th>Example value</th><th>Notes</th></tr>
+        <tr><td class="fm-key">layout</td><td><span class="fm-req">required</span></td><td class="fm-example">post <em>or</em> document</td><td class="fm-notes">Use <code>post</code> for journal entries; <code>document</code> for the sidebar layout</td></tr>
+        <tr><td class="fm-key">title</td><td><span class="fm-req">required</span></td><td class="fm-example">"On the Remnant"</td><td class="fm-notes">Always wrap in double quotes. Do <em>not</em> repeat this as a heading in the body — the layout renders it automatically.</td></tr>
+        <tr><td class="fm-key">date</td><td><span class="fm-req">required (posts)</span></td><td class="fm-example">2026-04-23 10:00:00 +0000</td><td class="fm-notes">Must also appear in the filename: <code>2026-04-23-slug.md</code></td></tr>
+        <tr><td class="fm-key">excerpt</td><td><span class="fm-opt">optional</span></td><td class="fm-example">"A brief summary…"</td><td class="fm-notes">Shown in the post list on the home page. Keep to 1–2 sentences.</td></tr>
+        <tr><td class="fm-key">tags</td><td><span class="fm-opt">optional</span></td><td class="fm-example">[covenant, scotland]</td><td class="fm-notes">Lowercase, hyphenated. Square bracket list, no quotes needed.</td></tr>
+        <tr><td class="fm-key">comments</td><td><span class="fm-opt">optional</span></td><td class="fm-example">true <em>or</em> false</td><td class="fm-notes">Omitting this defaults to showing comments on posts, hiding on documents.</td></tr>
+        <tr><td class="fm-key">subtitle</td><td><span class="fm-opt">documents only</span></td><td class="fm-example">"With Introduction"</td><td class="fm-notes">Renders in italic below the title.</td></tr>
+        <tr><td class="fm-key">order</td><td><span class="fm-opt">documents only</span></td><td class="fm-example">1</td><td class="fm-notes">Controls the sort order in the sidebar navigation. Lower numbers appear first.</td></tr>
+        <tr><td class="fm-key">section</td><td><span class="fm-opt">documents only</span></td><td class="fm-example">"Historical Documents"</td><td class="fm-notes">Groups documents under a heading in the sidebar. Documents with the same section string are grouped together.</td></tr>
+      </table>
+    </div>
+
+    <!-- HEADINGS -->
+    <div class="section" id="headings">
+      <div class="section-label">Section 02</div>
+      <h2>Headings</h2>
+      <p class="section-intro">Three heading levels are available. Note that <strong>H1 is reserved</strong> — the layout renders the front matter <code>title</code> as H1 automatically. Never add a <code>#</code> heading in the body that duplicates the title.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">H2 — Section heading</span>
+          <span class="style-desc">Large italic serif. Use for major divisions within a post.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-h2">Of the National Covenant</div>
+        </div>
+        <div class="style-code"><pre><span class="code-md">## Of the National Covenant</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">H3 — Sub-section heading</span>
+          <span class="style-desc">Smaller italic serif. Use for subsections or article numbers.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-h3">Article the First</div>
+        </div>
+        <div class="style-code"><pre><span class="code-md">### Article the First</span></pre></div>
+      </div>
+
+      <div class="note"><strong>Remember:</strong> Never begin a post body with a <code>## Title</code> that copies the front matter title — it will appear twice on the page.</div>
+    </div>
+
+    <!-- PARAGRAPHS -->
+    <div class="section" id="paragraphs">
+      <div class="section-label">Section 03</div>
+      <h2>Paragraphs &amp; Prose</h2>
+      <p class="section-intro">Normal prose paragraphs are written as plain text with a blank line between them. No class or markup needed.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Plain paragraph</span>
+          <span class="style-desc">The default. Just write. Blank line = new paragraph.</span>
+        </div>
+        <div class="style-preview" style="font-size:1.15rem; line-height:1.9;">
+          The Covenanted Reformation, in the fulness of its attainments, stands as a singular monument of divine mercy to these lands — a season when the whole nation, with the Kirk and civil magistracy together, was visibly and solemnly bound to the living God.
+        </div>
+        <div class="style-code"><pre><span class="code-md">The Covenanted Reformation, in the fulness of its attainments,
+stands as a singular monument of divine mercy to these lands —
+a season when the whole nation, with the Kirk and civil
+magistracy together, was visibly and solemnly bound to the
+living God.</span>
+
+<span class="code-md">New paragraph begins here after a blank line.</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Preamble / Introductory notice</span>
+          <span class="style-desc">Italic muted block for prefatory notes or disclaimers. Raw HTML.</span>
+        </div>
+        <div class="style-preview">
+          <p style="font-style:italic; border-left:3px solid var(--border); padding-left:1rem; color:var(--text-mid); font-size:1rem; line-height:1.7;">The following is offered not as a settled or authoritative standard, but as a working draft drawn from Holy Scripture, the Westminster Standards, and the testimony of the faithful Covenanted Reformation.</p>
+        </div>
+        <div class="style-code"><pre><span class="code-tag">&lt;p</span> <span class="code-attr">style</span><span class="code-punct">="</span><span class="code-val">font-style:italic; border-left:3px solid #ccc8b8;
+  padding-left:1rem; color:#555; font-size:1.1rem; line-height:1.7;</span><span class="code-punct">"</span><span class="code-tag">&gt;</span>
+The following is offered not as a settled or authoritative
+standard, but as a working draft...
+<span class="code-tag">&lt;/p&gt;</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Footer notice / Disclaimer</span>
+          <span class="style-desc">Small grey suffix text. Use for AI assistance notices, copyright, etc.</span>
+        </div>
+        <div class="style-preview">
+          <p style="font-size:0.85rem; color:#888; font-style:italic; margin-top:1rem; padding-top:1rem; border-top:1px solid #e8e4d8;">This post was composed with the assistance of Claude (Anthropic) as a writing and formatting tool. The theological content remains the sole responsibility of the author. © 2026 The Covenanting Record.</p>
+        </div>
+        <div class="style-code"><pre><span class="code-tag">&lt;p</span> <span class="code-attr">style</span><span class="code-punct">="</span><span class="code-val">font-size:0.85rem; color:#888; font-style:italic;
+  margin-top:1rem; padding-top:1rem; border-top:1px solid #e8e4d8;</span><span class="code-punct">"</span><span class="code-tag">&gt;</span>
+Your disclaimer text here.
+<span class="code-tag">&lt;/p&gt;</span></pre></div>
+      </div>
+    </div>
+
+    <!-- SCRIPTURE -->
+    <div class="section" id="scripture">
+      <div class="section-label">Section 04</div>
+      <h2>Scripture Blocks</h2>
+      <p class="section-intro">Use the <code>.scripture</code> class for extended Scripture quotations. KJV italic words (translator's insertions) are marked with <code>&lt;em&gt;</code> tags. Include a <code>&lt;cite&gt;</code> for the reference.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">.scripture</span>
+          <span class="style-desc">Italic text with gold left border. The canonical way to quote Scripture.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-scripture">
+            And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and <em>I</em> will hear them: <em>I</em> will say, It <em>is</em> my people: and they shall say, The <span style="font-variant:small-caps;">Lord</span> <em>is</em> my God.
+            <cite>Zechariah 13:9</cite>
+          </div>
+        </div>
+        <div class="style-code"><pre><span class="code-tag">&lt;div</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">scripture</span><span class="code-punct">"&gt;</span>
+And I will bring the third part through the fire, and will
+refine them as silver is refined, and will try them as gold
+is tried: they shall call on my name, and <span class="code-tag">&lt;em&gt;</span>I<span class="code-tag">&lt;/em&gt;</span> will hear
+them: <span class="code-tag">&lt;em&gt;</span>I<span class="code-tag">&lt;/em&gt;</span> will say, It <span class="code-tag">&lt;em&gt;</span>is<span class="code-tag">&lt;/em&gt;</span> my people: and they
+shall say, The LORD <span class="code-tag">&lt;em&gt;</span>is<span class="code-tag">&lt;/em&gt;</span> my God.
+<span class="code-tag">&lt;cite&gt;</span>Zechariah 13:9<span class="code-tag">&lt;/cite&gt;</span>
+<span class="code-tag">&lt;/div&gt;</span></pre></div>
+      </div>
+
+      <div class="note"><strong>KJV italic words:</strong> In the Authorised Version, words printed in italics were added by the translators for clarity. Mark these with <code>&lt;em&gt;word&lt;/em&gt;</code> to preserve this distinction on the site.</div>
+    </div>
+
+    <!-- BLOCKQUOTES -->
+    <div class="section" id="blockquote">
+      <div class="section-label">Section 05</div>
+      <h2>Blockquotes</h2>
+      <p class="section-intro">Use Markdown's <code>&gt;</code> blockquote syntax for non-Scripture quotations — e.g. from the Westminster Standards, confessional documents, or other authors.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Blockquote</span>
+          <span class="style-desc">Grey left border. For creeds, confessions, historical citations, other authors.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-blockquote">
+            <p style="margin:0; font-size:1.1rem; line-height:1.8;">The Lord Jesus Christ, as King and Head of His Church, hath therein appointed a government in the hand of Church officers, distinct from the civil magistrate.</p>
+          </div>
+          <p style="font-size:0.9rem; color:var(--text-light); margin-top:0.5rem; font-style:italic;">Westminster Confession, Chapter XXX</p>
+        </div>
+        <div class="style-code"><pre><span class="code-md">&gt; The Lord Jesus Christ, as King and Head of His Church,
+&gt; hath therein appointed a government in the hand of Church
+&gt; officers, distinct from the civil magistrate.</span>
+
+<span class="code-md">*Westminster Confession, Chapter XXX*</span></pre></div>
+      </div>
+    </div>
+
+    <!-- SIDENOTES -->
+    <div class="section" id="sidenotes">
+      <div class="section-label">Section 06</div>
+      <h2>Sidenotes</h2>
+      <p class="section-intro">Sidenotes appear in the right margin on desktop, and expand on tap on mobile. Each sidenote needs a unique ID number. <strong>Critical rule:</strong> the three tags must be placed <em>inside</em> the paragraph, directly after the word being annotated, with <em>no blank line</em> before them and all on a single unbroken line.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Sidenote (numbered)</span>
+          <span class="style-desc">Superscript number in text; note floats to right margin.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-sidenote-demo" style="padding-right:42%;">
+            The Westminster Confession of Faith<span class="prev-sidenote-marker">1</span> was adopted by the General Assembly of the Church of Scotland in 1647, and remains the subordinate standard of that church to this day.
+            <div class="prev-sidenote-inline">The Confession was approved by the General Assembly on 27th August 1647.</div>
+          </div>
+        </div>
+        <div class="style-code"><pre><span class="code-comment">The three tags must sit on ONE unbroken line, no blank line before them:</span>
+
+The Westminster Confession of Faith<span class="code-tag">&lt;label</span> <span class="code-attr">for</span><span class="code-punct">="</span><span class="code-val">sn-1</span><span class="code-punct">"</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">margin-toggle sidenote-number</span><span class="code-punct">"&gt;&lt;/label&gt;&lt;</span><span class="code-tag">input</span> <span class="code-attr">type</span><span class="code-punct">="</span><span class="code-val">checkbox</span><span class="code-punct">"</span> <span class="code-attr">id</span><span class="code-punct">="</span><span class="code-val">sn-1</span><span class="code-punct">"</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">margin-toggle</span><span class="code-punct">"</span><span class="code-tag">/&gt;&lt;span</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">sidenote</span><span class="code-punct">"&gt;</span>Your note text here.<span class="code-tag">&lt;/span&gt;</span>
+was adopted by the General Assembly...
+
+<span class="code-comment">For the second sidenote on the page, change sn-1 to sn-2, and so on.</span></pre></div>
+      </div>
+
+      <div class="note"><strong>Common mistake:</strong> Leaving a blank line between the paragraph text and the <code>&lt;label&gt;</code> tag. This pushes the number onto a new line. The fix_sidenotes.py script corrects this automatically if needed.</div>
+    </div>
+
+    <!-- MARGIN NOTES -->
+    <div class="section" id="marginnotes">
+      <div class="section-label">Section 07</div>
+      <h2>Margin Notes</h2>
+      <p class="section-intro">Like sidenotes, but <em>without</em> a number. Use for supplementary asides that don't need to interrupt the reading flow — cross-references, dates, brief annotations.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Margin note (unnumbered)</span>
+          <span class="style-desc">No superscript number. Right margin only. Uses a ⊕ toggle symbol on mobile.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-marginnote-demo" style="padding-right:42%;">
+            The Covenanters suffered greatly under the Restoration settlement of 1660 and the years of the <em>Killing Time</em> that followed.
+            <div class="prev-marginnote-inline">1660–1688. The period of Episcopalian persecution following the death of Cromwell.</div>
+          </div>
+        </div>
+        <div class="style-code"><pre><span class="code-comment">Note: use mn-1, mn-2 etc. for margin note IDs (distinct from sn-1, sn-2)</span>
+
+The Covenanters suffered greatly under the Restoration<span class="code-tag">&lt;label</span> <span class="code-attr">for</span><span class="code-punct">="</span><span class="code-val">mn-1</span><span class="code-punct">"</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">margin-toggle</span><span class="code-punct">"&gt;</span>⊕<span class="code-tag">&lt;/label&gt;&lt;input</span> <span class="code-attr">type</span><span class="code-punct">="</span><span class="code-val">checkbox</span><span class="code-punct">"</span> <span class="code-attr">id</span><span class="code-punct">="</span><span class="code-val">mn-1</span><span class="code-punct">"</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">margin-toggle</span><span class="code-punct">"</span><span class="code-tag">/&gt;&lt;span</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">marginnote</span><span class="code-punct">"&gt;</span>1660–1688.<span class="code-tag">&lt;/span&gt;</span>
+settlement of 1660...</pre></div>
+      </div>
+    </div>
+
+    <!-- DOCUMENT STYLES -->
+    <div class="section" id="document-styles">
+      <div class="section-label">Section 08</div>
+      <h2>Document Styles</h2>
+      <p class="section-intro">These styles are intended for historical documents in the <code>_documents/</code> folder — titles, preambles, and article numbering conventions.</p>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">.document-title</span>
+          <span class="style-desc badge badge-doc">_documents</span>
+          <span class="style-desc">Centred small caps. For the formal title of a historical document.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-document-title">The Solemn League and Covenant</div>
+        </div>
+        <div class="style-code"><pre><span class="code-tag">&lt;p</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">document-title</span><span class="code-punct">"&gt;</span>The Solemn League and Covenant<span class="code-tag">&lt;/p&gt;</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">.document-preamble</span>
+          <span class="style-desc badge badge-doc">_documents</span>
+          <span class="style-desc">Italic muted block. For the formal preamble of a historical document.</span>
+        </div>
+        <div class="style-preview">
+          <div class="prev-document-preamble">A Solemn League and Covenant for Reformation and Defence of Religion, the Honour and Happiness of the King, and the Peace and Safety of the Three Kingdoms of Scotland, England, and Ireland.</div>
+        </div>
+        <div class="style-code"><pre><span class="code-tag">&lt;p</span> <span class="code-attr">class</span><span class="code-punct">="</span><span class="code-val">document-preamble</span><span class="code-punct">"&gt;</span>A Solemn League and Covenant for
+Reformation and Defence of Religion...<span class="code-tag">&lt;/p&gt;</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header">
+          <span class="style-name">Article numerals</span>
+          <span class="style-desc">Bold numeral, plain body text. Do not bold the whole paragraph.</span>
+        </div>
+        <div class="style-preview" style="font-size:1.15rem; line-height:1.9;">
+          <p><strong>I.</strong> That we shall sincerely, really, and constantly endeavour, in our several vocations and places, the preservation of the reformed religion in the Church of Scotland.</p>
+        </div>
+        <div class="style-code"><pre><span class="code-md">**I.** That we shall sincerely, really, and constantly endeavour,
+in our several vocations and places, the preservation of the
+reformed religion in the Church of Scotland.</span></pre></div>
+      </div>
+    </div>
+
+    <!-- INLINE FORMATTING -->
+    <div class="section" id="inline">
+      <div class="section-label">Section 09</div>
+      <h2>Inline Formatting</h2>
+      <p class="section-intro">Standard Markdown inline styles, plus special characters useful in historical and theological writing.</p>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Italic</span><span class="style-desc">Titles, foreign words, emphasis, KJV translator's words inline</span></div>
+        <div class="style-preview"><span class="prev-em">Soli Deo Gloria.</span> &nbsp;&nbsp; The <span class="prev-em">Killing Time</span> of 1680–1688.</div>
+        <div class="style-code"><pre><span class="code-md">*Soli Deo Gloria.*</span>   <span class="code-md">The *Killing Time* of 1680–1688.</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Bold</span><span class="style-desc">Article numerals; key terms; use sparingly</span></div>
+        <div class="style-preview"><span class="prev-strong">II.</span> &nbsp;&nbsp; The <span class="prev-strong">Westminster Assembly</span> convened in 1643.</div>
+        <div class="style-code"><pre><span class="code-md">**II.**</span>   &nbsp;  <span class="code-md">The **Westminster Assembly** convened in 1643.</span></pre></div>
+      </div>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Special characters</span><span class="style-desc">Typography for historical and theological writing</span></div>
+        <div class="style-preview" style="font-size:1.1rem; line-height:2.2;">
+          Em dash — for parenthetical asides &nbsp;&nbsp; <code style="font-size:0.8rem;">&amp;mdash;</code><br>
+          En dash – for ranges (1643–1647) &nbsp;&nbsp; <code style="font-size:0.8rem;">&amp;ndash;</code><br>
+          Non-breaking space &amp;nbsp; to prevent orphaned words<br>
+          Small caps: <span style="font-variant:small-caps;">Lord</span> &nbsp;&nbsp; <code style="font-size:0.8rem;">&lt;span style="font-variant:small-caps;"&gt;Lord&lt;/span&gt;</code>
+        </div>
+        <div class="style-code"><pre><span class="code-md">a difficult season &amp;mdash; yet not without mercy</span>
+<span class="code-md">the years 1643&amp;ndash;1647</span>
+<span class="code-tag">&lt;span</span> <span class="code-attr">style</span><span class="code-punct">="</span><span class="code-val">font-variant:small-caps;</span><span class="code-punct">"&gt;</span>Lord<span class="code-tag">&lt;/span&gt;</span></pre></div>
+      </div>
+    </div>
+
+    <!-- DIVIDERS -->
+    <div class="section" id="dividers">
+      <div class="section-label">Section 10</div>
+      <h2>Dividers</h2>
+      <p class="section-intro">A horizontal rule creates a short centred line (55% width). Useful between sections of a longer post.</p>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Horizontal rule</span><span class="style-desc">Short centred decorative divider</span></div>
+        <div class="style-preview"><hr class="prev-hr"></div>
+        <div class="style-code"><pre><span class="code-md">---</span>
+<span class="code-comment">(Three hyphens on their own line, with blank lines above and below)</span></pre></div>
+      </div>
+
+      <div class="note"><strong>Note:</strong> Three hyphens (<code>---</code>) also marks the <em>end</em> of the front matter block. Make sure there is a blank line above a divider, so Jekyll does not confuse it with front matter.</div>
+    </div>
+
+    <!-- TAGS -->
+    <div class="section" id="tags">
+      <div class="section-label">Section 11</div>
+      <h2>Tags</h2>
+      <p class="section-intro">Tags are set in the front matter. They appear beneath the post title as small pills. Keep them lowercase and hyphenated.</p>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Tag display</span><span class="style-desc">As rendered on the post page</span></div>
+        <div class="style-preview" style="display:flex; gap:0.5rem; flex-wrap:wrap;">
+          <span class="prev-tag">covenant</span>
+          <span class="prev-tag">reformation</span>
+          <span class="prev-tag">scotland</span>
+          <span class="prev-tag">westminster-standards</span>
+          <span class="prev-tag">lord's-day</span>
+        </div>
+        <div class="style-code"><pre><span class="code-attr">tags</span><span class="code-punct">:</span> <span class="code-val">[covenant, reformation, scotland, westminster-standards]</span>
+
+<span class="code-comment">Suggested vocabulary:
+  covenant, reformation, scotland, england, ireland,
+  westminster-standards, confession, catechism,
+  lords-day, preaching, prayer, psalm-singing,
+  remnant, testimony, covenanting, history,
+  israel, church, kingdom, eschatology</span></pre></div>
+      </div>
+    </div>
+
+    <!-- VERSECLICK -->
+    <div class="section" id="verseclick">
+      <div class="section-label">Section 12</div>
+      <h2>Scripture References (VerseClick)</h2>
+      <p class="section-intro">VerseClick automatically detects Scripture references in plain text and converts them to pop-up links. <strong>No special markup is needed.</strong> Simply write the reference naturally.</p>
+
+      <div class="style-card">
+        <div class="style-card-header"><span class="style-name">Automatic detection — formats that work</span></div>
+        <div class="style-preview" style="font-size:1.1rem; line-height:2.2;">
+          Psalm 46:1 &nbsp;&nbsp;
+          Romans 8:28–30 &nbsp;&nbsp;
+          Isaiah 53:4&ndash;6 &nbsp;&nbsp;
+          Matt. 5:17 &nbsp;&nbsp;
+          1 Cor. 13:12 &nbsp;&nbsp;
+          Rev. 21:1
+        </div>
+        <div class="style-code"><pre><span class="code-md">Psalm 46:1</span>
+<span class="code-md">Romans 8:28-30</span>
+<span class="code-md">Isaiah 53:4-6</span>
+<span class="code-md">Matt. 5:17</span>
+<span class="code-md">1 Cor. 13:12</span>
+<span class="code-comment">Only full Book-Chapter:Verse citations are linked.
+"Isaiah 53" alone will not trigger a pop-up (no verse specified).
+References inside H1–H4 headings are intentionally not linked.</span></pre></div>
+      </div>
+    </div>
+
+    <!-- PRACTICAL TIPS -->
+    <div class="section" id="tips">
+      <div class="section-label">Section 13</div>
+      <h2>Practical Tips</h2>
+
+      <div class="note" style="margin-bottom:1rem;"><strong>Tip 1 — Never repeat the title.</strong> The layout renders the front matter <code>title</code> as a large H1 automatically. Starting the body with <code>## Same Title</code> will show the heading twice.</div>
+
+      <div class="note" style="margin-bottom:1rem;"><strong>Tip 2 — Sidenotes must be inline.</strong> The sidenote <code>&lt;label&gt;&lt;input&gt;&lt;span&gt;</code> block must sit inside the paragraph, directly after the annotated word, on one unbroken line, with no blank line separating it from the preceding text. Run <code>python fix_sidenotes.py</code> if any look wrong.</div>
+
+      <div class="note" style="margin-bottom:1rem;"><strong>Tip 3 — Asterisks in historical texts.</strong> If you paste text containing asterisks (e.g. <code>*Anno Domini*</code>), Markdown will render them as italic/bold. Either remove them or escape them with a backslash: <code>\*Anno Domini\*</code>.</div>
+
+      <div class="note" style="margin-bottom:1rem;"><strong>Tip 4 — Post filename must match the date.</strong> The file must be named <code>YYYY-MM-DD-slug-here.md</code> and the <code>date:</code> field in the front matter must begin with the same <code>YYYY-MM-DD</code>.</div>
+
+      <div class="note" style="margin-bottom:1rem;"><strong>Tip 5 — HTML within Markdown is fine.</strong> Jekyll processes Markdown files but passes raw HTML through unchanged. So you can mix plain Markdown paragraphs with <code>&lt;div class="scripture"&gt;</code> blocks freely — no special setting is needed.</div>
+
+      <div class="note"><strong>Tip 6 — Closing <em>Soli Deo Gloria.</em></strong> Posts conventionally close with an italic <em>Soli Deo Gloria.</em> on its own line, followed by the footer disclaimer if needed. Write it as:<br><br><code>*Soli Deo Gloria.*</code></div>
+    </div>
+
+  </main>
+</div>
+
+</body>
+</html>
