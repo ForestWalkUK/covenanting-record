@@ -53,9 +53,9 @@ nations of men.
 
 ## Selected Proof Texts
 
-- **Paragraph I** &mdash; Matt. 21:19; Rom. 11:1&ndash;2, 28&ndash;29.
-- **Paragraph II** &mdash; Zech. 12:10&ndash;14; Jer. 31:31&ndash;34; Isa. 53:10&ndash;12.
-- **Paragraph III** &mdash; Rom. 11:12, 15; Isa. 60:1&ndash;3; Ezek. 37:1&ndash;14.
+- **Paragraph I** &mdash; Matt. 21:19; Rom. 11:1-2, 28-29.
+- **Paragraph II** &mdash; Zech. 12:10-14; Jer. 31:31-34; Isa. 53:10-12.
+- **Paragraph III** &mdash; Rom. 11:12, 15; Isa. 60:1-3; Ezek. 37:1-14.
 - **Paragraph IV** &mdash; Rev. 11:15; Ps. 72:8, 11, 17; Isa. 11:9.
 
 ---
